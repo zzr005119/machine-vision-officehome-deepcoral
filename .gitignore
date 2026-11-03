@@ -1,0 +1,37 @@
+# Local datasets and archives
+/data/downloads/
+/data/raw/
+/data/processed/
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Model weights and generated experiment output
+/checkpoints/
+/runs/
+/outputs/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini

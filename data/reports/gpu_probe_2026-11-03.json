@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-11-03T19:31:37+08:00",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_total_mib": 8187.5,
+  "python": "D:\\ANACONDA\\envs\\defect-cnn\\python.exe",
+  "torch": "2.13.0+cu126",
+  "torchvision": "0.28.0+cu126",
+  "cuda_build": "12.6",
+  "results": [
+    {
+      "precision": "fp32",
+      "source_batch": 16,
+      "target_batch": 16,
+      "input_size": [
+        224,
+        224
+      ],
+      "feature_dim": 512,
+      "classes": 65,
+      "parameters": 11209857,
+      "optimizer": "AdamW",
+      "batchnorm": "frozen running statistics; affine parameters trainable",
+      "warmup_steps": 3,
+      "measured_steps": 8,
+      "mean_step_seconds": 0.0629,
+      "peak_allocated_mib": 899.6,
+      "peak_reserved_mib": 1320.0,
+      "finite_loss": true,
+      "finite_parameters": true,
+      "last_loss": 2.173041
+    },
+    {
+      "precision": "amp_fp16",
+      "source_batch": 16,
+      "target_batch": 16,
+      "input_size": [
+        224,
+        224
+      ],
+      "feature_dim": 512,
+      "classes": 65,
+      "parameters": 11209857,
+      "optimizer": "AdamW",
+      "batchnorm": "frozen running statistics; affine parameters trainable",
+      "warmup_steps": 3,
+      "measured_steps": 8,
+      "mean_step_seconds": 0.0378,
+      "peak_allocated_mib": 573.0,
+      "peak_reserved_mib": 816.0,
+      "finite_loss": true,
+      "finite_parameters": true,
+      "last_loss": 2.663819
+    }
+  ],
+  "limits": [
+    "Synthetic random inputs and random-initialized ResNet18; no pretrained weights downloaded.",
+    "This verifies memory capacity and optimizer steps only, not model accuracy or end-to-end dataset throughput.",
+    "Short runs do not establish sustained laptop thermal behavior or full training wall time.",
+    "The existing defect-cnn environment was used read-only; no packages were installed or modified."
+  ]
+}

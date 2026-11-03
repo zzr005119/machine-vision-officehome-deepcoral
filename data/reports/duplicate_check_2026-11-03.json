@@ -1,0 +1,3434 @@
+{
+  "checked_at": "2026-11-03T19:30:51+08:00",
+  "method": "All archive JPG entries grouped by CRC32 and uncompressed byte size; only repeated-metadata candidates were read from extracted files and SHA-256 compared. Images were not decoded for this duplicate scan.",
+  "jpg_entries": 15588,
+  "candidate_groups": 398,
+  "candidate_files_read": 810,
+  "candidate_bytes_read": 38700979,
+  "exact_duplicate_groups": 398,
+  "extra_identical_files": 412,
+  "cross_domain_groups": 9,
+  "conflicting_class_groups": 87,
+  "groups": [
+    {
+      "sha256": "f3aca822e2f110023f3f3c8cf4e7ef3473d4ad83cddf0487fa7684bdf06a3762",
+      "paths": [
+        "Art/Alarm_Clock/00006.jpg",
+        "Art/Alarm_Clock/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "f831a132b64e908cc06ff46863ed013545a9d4664ff20bcf457a20cd34948c03",
+      "paths": [
+        "Art/Alarm_Clock/00012.jpg",
+        "Art/Alarm_Clock/00013.jpg",
+        "Real World/Alarm_Clock/00005.jpg"
+      ]
+    },
+    {
+      "sha256": "13d4f2585460a7f0674c903996835d7933fb82bf7019acc04ee9fb09a5bda2e1",
+      "paths": [
+        "Art/Alarm_Clock/00015.jpg",
+        "Art/Alarm_Clock/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "4a7dc67fe800f7a009bdf4ab5ddcf8b0f77f8ce8328612f46065323c86cdd518",
+      "paths": [
+        "Art/Alarm_Clock/00021.jpg",
+        "Art/Alarm_Clock/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "e2a7ad2dcac5117a6030f2f83e124c353886c110e4d5398d45c57a6eea71d2fe",
+      "paths": [
+        "Art/Alarm_Clock/00033.jpg",
+        "Art/Alarm_Clock/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "67e53556584bd79927873350bf1cdd9cfdd29416bb36c279c8ca36a49929a14e",
+      "paths": [
+        "Art/Alarm_Clock/00056.jpg",
+        "Art/Alarm_Clock/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "5b8c7af53bf50645bf719536859e3248b7718f60c8aa2f1f7900140a29906038",
+      "paths": [
+        "Art/Batteries/00006.jpg",
+        "Art/Batteries/00025.jpg"
+      ]
+    },
+    {
+      "sha256": "1c42dd98e141752f0cc25a5f342f73f200b4a66faaa9409453eaaa59cc3cc525",
+      "paths": [
+        "Art/Bed/00022.jpg",
+        "Real World/Bed/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "12c026c782b75e758179ca9471601925e6cac0ada2d67a7967461260ee75bd34",
+      "paths": [
+        "Art/Bed/00023.jpg",
+        "Art/Bed/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "8f771aceafd6977e4e0f201760dfe29d2a5a800d2fc4f03ea7d754eed67f7229",
+      "paths": [
+        "Art/Bed/00024.jpg",
+        "Art/Bed/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "89cfe9c5b804b14cbb9c41922d1998d0eb26ebe5907dc85345f91310652a34f0",
+      "paths": [
+        "Art/Bottle/00028.jpg",
+        "Art/Bottle/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "7f4eb9f41d00795032d10ded70b4ee19d781f9b1cb2d3f91ee196d4dbd3e5e54",
+      "paths": [
+        "Art/Bottle/00077.jpg",
+        "Art/Bottle/00078.jpg"
+      ]
+    },
+    {
+      "sha256": "fdf7a76fb476c6c64daa78e8d3d95fba1143b6df3e67488a85e9cd9fe5431584",
+      "paths": [
+        "Art/Candles/00013.jpg",
+        "Art/Candles/00014.jpg"
+      ]
+    },
+    {
+      "sha256": "8e621fc9b4b876f682cf5fab51f31504b4237d9009b224f473206efe79ab08f8",
+      "paths": [
+        "Art/Chair/00022.jpg",
+        "Art/Chair/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "077e84a6620d62fd8de634440da0b10e30e6989b40ce7e526634c316c9ac83b2",
+      "paths": [
+        "Art/Chair/00064.jpg",
+        "Art/Chair/00066.jpg"
+      ]
+    },
+    {
+      "sha256": "2a024c7e8c5fc1b8a5e132c2d811052421196a64572009cb1539336a8a338338",
+      "paths": [
+        "Art/Chair/00065.jpg",
+        "Art/Chair/00067.jpg"
+      ]
+    },
+    {
+      "sha256": "28a21a04b858ead52123d5210542daf5031782bdd1f5cf2cee8f707c7cd456e6",
+      "paths": [
+        "Art/Computer/00001.jpg",
+        "Art/Computer/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "7262e5b31467436057fbc85e05f40175079785696b8931ff29d7e8fe3aa01ffd",
+      "paths": [
+        "Art/Computer/00002.jpg",
+        "Art/Computer/00011.jpg",
+        "Art/Monitor/00011.jpg"
+      ]
+    },
+    {
+      "sha256": "3007cd7e92c38648e65c52229378817b1c244b986b4cca304f18e7361ebd6374",
+      "paths": [
+        "Art/Computer/00004.jpg",
+        "Art/Monitor/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "b179e587053ddeba797909d5203518a90080f88a5476fd98c6b00f98d1f9ff2e",
+      "paths": [
+        "Art/Computer/00008.jpg",
+        "Art/Computer/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "3e44f4e31cc809dccbcce0ae01addf8dd9dbe7211dd1e04cad268585880ee7f3",
+      "paths": [
+        "Art/Computer/00010.jpg",
+        "Art/Computer/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "44ce25c64f0b82fe0258c71f9b32ea31926814b1c881655d83ff7146f2a6441b",
+      "paths": [
+        "Art/Computer/00013.jpg",
+        "Art/Monitor/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "a062324acc670e417e5b5e9867bd0caf6c26edf66b7e86aaea7ceea5cd180f9b",
+      "paths": [
+        "Art/Curtains/00001.jpg",
+        "Art/Curtains/00031.jpg",
+        "Real World/Curtains/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "b429e1277432a6d7335492215cd6fb5f963f90d0d9170d3d1bea22a94639463a",
+      "paths": [
+        "Art/Curtains/00003.jpg",
+        "Art/Curtains/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "48b31649e17dc14ef5403ad38d468fd55d691fd8cbaeda6b643a84a5ae18d68b",
+      "paths": [
+        "Art/Curtains/00009.jpg",
+        "Art/Curtains/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "4858ee60cb6058bb8c8c424b2cf541672d11b84dc731b1efc609faca361c314c",
+      "paths": [
+        "Art/Desk_Lamp/00008.jpg",
+        "Art/Lamp_Shade/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "52376e8857390bade4ea4725c1fa62608227c9b73a355574b961d38b83a18998",
+      "paths": [
+        "Art/Drill/00001.jpg",
+        "Art/Drill/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "907775abc42d1efc25b7eed893d1492588b8dfd05fdc4cb7573187c3c6ba6084",
+      "paths": [
+        "Art/Drill/00012.jpg",
+        "Real World/Drill/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "486a3f90d4ba2deb8523de90ba980f9da618943cccbe24cb55a7c237c87d9af5",
+      "paths": [
+        "Art/Eraser/00009.jpg",
+        "Art/Pencil/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "b37b1666400620e8d6f52f0abe476cb365da9beb14145f2740730a313def1645",
+      "paths": [
+        "Art/Flowers/00081.jpg",
+        "Art/Flowers/00082.jpg"
+      ]
+    },
+    {
+      "sha256": "be404b9e6e2cb4bde19970ccfeac37303180c9f0bdb16e2b824b5202e5f1b4e0",
+      "paths": [
+        "Art/Fork/00001.jpg",
+        "Art/Fork/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "c86cf73634649b0dd3bbc2102e806f7b9be4146859b01f39e56fb6794385bba6",
+      "paths": [
+        "Art/Fork/00002.jpg",
+        "Art/Spoon/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "191b73979799016a04de7009cb2418b5437c3397b91f0e36d5a4eb38a825918d",
+      "paths": [
+        "Art/Fork/00003.jpg",
+        "Art/Fork/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "46e33c0ae55e269d34fdbca54b57af2eef30f1284da94891ca56732e6d5f0285",
+      "paths": [
+        "Art/Fork/00004.jpg",
+        "Art/Fork/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "299251055b73ff5da236d00fc070391d24be938ef98b6221cee555998be97700",
+      "paths": [
+        "Art/Fork/00005.jpg",
+        "Art/Fork/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "ceb1d0eb6bde1bce18ce8f6751bf0f0b4bf363ef5b70e773a036f2eaa824a7d9",
+      "paths": [
+        "Art/Fork/00006.jpg",
+        "Art/Fork/00033.jpg"
+      ]
+    },
+    {
+      "sha256": "9c0b08ee78073873261786ecb4b8e35c70baacd7023feb08130a6e1479646da6",
+      "paths": [
+        "Art/Fork/00009.jpg",
+        "Art/Fork/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "a8366bb8aace436204689b225303113a9b080e73f0a72ba47cc117156bc42030",
+      "paths": [
+        "Art/Fork/00011.jpg",
+        "Art/Fork/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "16f94d46308924e7aaa7762e8c4d150f4748d8d7a7546244df4ab63fd5abab0b",
+      "paths": [
+        "Art/Fork/00013.jpg",
+        "Art/Fork/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "8f99d52059ef27bb39154bf6635c123ff846e5760bd58a7df252e9b2ee28c218",
+      "paths": [
+        "Art/Fork/00014.jpg",
+        "Art/Fork/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "5c6ebff7857637ad577769ad0340b15e1be5bb641f886761264cdad86c767317",
+      "paths": [
+        "Art/Kettle/00010.jpg",
+        "Art/Kettle/00011.jpg"
+      ]
+    },
+    {
+      "sha256": "95ff0129f009f235e79a5b77fea57589e83be75c9878c530d33d47a1bb8dd169",
+      "paths": [
+        "Art/Keyboard/00010.jpg",
+        "Art/Laptop/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "a50650a03c2bef10202ff457cacc782cbcfbcb7206b011c120b8417259587c2a",
+      "paths": [
+        "Art/Knives/00044.jpg",
+        "Art/Knives/00047.jpg"
+      ]
+    },
+    {
+      "sha256": "890bffcde6dc380f6a802d0fb74a9acc8f1d895d2d06dc483f30a4c6ad584e7d",
+      "paths": [
+        "Art/Knives/00045.jpg",
+        "Art/Knives/00048.jpg"
+      ]
+    },
+    {
+      "sha256": "1273e34e242703c44c70a1a2c88d042a54661097fd3ac0e5b6ae0bae98f3a825",
+      "paths": [
+        "Art/Knives/00061.jpg",
+        "Art/Knives/00062.jpg"
+      ]
+    },
+    {
+      "sha256": "52b64dc58129a9071ca154495ca83fe8230acb29ee4c3db9a647f4a6da3b4d72",
+      "paths": [
+        "Art/Lamp_Shade/00017.jpg",
+        "Art/Lamp_Shade/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "ab20cad02b523143c0c3a40cc353ee8fadbb8df8e0cc982ad1950eaaec74ea5f",
+      "paths": [
+        "Art/Laptop/00004.jpg",
+        "Art/Laptop/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "e3b67faed6768ae1b8ddf098709c6cf3fde17b884725bcf2785a270c811ca61c",
+      "paths": [
+        "Art/Laptop/00009.jpg",
+        "Art/Laptop/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "53a3311aae075ae7f11a9a4c57d3fd7e894a54abe1d785ea4e5aa760d95819ad",
+      "paths": [
+        "Art/Laptop/00010.jpg",
+        "Art/Laptop/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "d799699a7a431472df3bccdaf9adbd0f34f8c1639948d88bed1dfc91d9de1ddb",
+      "paths": [
+        "Art/Monitor/00038.jpg",
+        "Real World/Monitor/00070.jpg"
+      ]
+    },
+    {
+      "sha256": "1bfe3149b89aadfba4596dfbd41017a4d1acb18bfda5232dca9ccc9f0017d1e1",
+      "paths": [
+        "Art/Monitor/00040.jpg",
+        "Art/TV/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "e17204166567870620fc7e2f1f5a9f9a242ff8ddbf69523ca24b547719115315",
+      "paths": [
+        "Art/Mop/00006.jpg",
+        "Art/Mop/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "161978f8cdc9ca38d0bec23fbd686b4096816aae32e2ea663a27a9a0ddae12e7",
+      "paths": [
+        "Art/Mop/00007.jpg",
+        "Art/Mop/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "4223c4e9f3bd20caef9963e94bd00a298eaf3a4a527f3b90af5a4d94a9b2e511",
+      "paths": [
+        "Art/Mop/00010.jpg",
+        "Art/Mop/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "10e5dce6190edc8864fb8cd842763afa4c47d0ee675c0ec8f36902382fa75ce1",
+      "paths": [
+        "Art/Paper_Clip/00016.jpg",
+        "Art/Postit_Notes/00013.jpg"
+      ]
+    },
+    {
+      "sha256": "a4f7b258119c284b272e52e1e12a5f3cf6911b4582944a5280e56fee615be5e1",
+      "paths": [
+        "Art/Push_Pin/00007.jpg",
+        "Real World/Push_Pin/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "caf03c289cf67c45b0ef5622a9ab955bdae9dfae0517bdfef183f1267df8053c",
+      "paths": [
+        "Art/Radio/00001.jpg",
+        "Art/Radio/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "7bb8eaf3913bb66e4bb6e4c85634b48a46f5e9441413e6c537b75a58b3866937",
+      "paths": [
+        "Art/Radio/00002.jpg",
+        "Art/Radio/00033.jpg"
+      ]
+    },
+    {
+      "sha256": "7e12d0faaa648d02fb8ef7e8bde2a6f2df60a9613511b258093e65da69d1c5de",
+      "paths": [
+        "Art/Radio/00004.jpg",
+        "Art/Radio/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "cd6672d550b601bd8650c2ddae48265dab5040cfdcee5d14f6256160497e16fd",
+      "paths": [
+        "Art/Radio/00006.jpg",
+        "Art/Radio/00025.jpg"
+      ]
+    },
+    {
+      "sha256": "391bb58d87b1af72ff9357387f90ad5e47d1b796068c50dbe118c8ac83ce514a",
+      "paths": [
+        "Art/Radio/00007.jpg",
+        "Art/Radio/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "4e7ad1d586231ed8d16eb83f9afa9832e496e8252748b18a29fb5a5d6d49806f",
+      "paths": [
+        "Art/Radio/00008.jpg",
+        "Art/Radio/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "3fa50a2860d5ab6c02e159deec3c55db90e52c175030ac242ef87f84c292e7bd",
+      "paths": [
+        "Art/Radio/00009.jpg",
+        "Art/Radio/00045.jpg"
+      ]
+    },
+    {
+      "sha256": "b4a1ae50aa6efb961848275bf69873dd71923af266deb4388f4305e6a2384626",
+      "paths": [
+        "Art/Radio/00011.jpg",
+        "Art/Radio/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "c3e4436c6a78eada77458b7cb7ad7b4796ff0bbd1cb85d90adf898539be3d53f",
+      "paths": [
+        "Art/Radio/00012.jpg",
+        "Art/Radio/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "3be42481c7b79e0b022936a83800f85c48bbbdc723d35538731336d5002e0cbe",
+      "paths": [
+        "Art/Radio/00013.jpg",
+        "Art/Radio/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "df5ff3119c00733ee6a605965d49a8d5aa51fd5a97150c09dd48eb33ee2d0090",
+      "paths": [
+        "Art/Radio/00014.jpg",
+        "Art/Radio/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "f294de935e4b7c26901b131723a60b036a66d6024a019e7eff902eb7a5e4dbe8",
+      "paths": [
+        "Art/Radio/00015.jpg",
+        "Art/Radio/00020.jpg"
+      ]
+    },
+    {
+      "sha256": "d676c68418ae82ac2be43956a0b51f3a0301b8cb6cf839a021e6946690a34305",
+      "paths": [
+        "Art/Refrigerator/00005.jpg",
+        "Art/Refrigerator/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "72917faf4df60713d1369c3280d7ac392393f12c6ade35687dd6c7e6c0f7aa6b",
+      "paths": [
+        "Art/Refrigerator/00008.jpg",
+        "Art/Refrigerator/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "9cc840cfa483e70ab7a708d1dbad3916e801e22e8eae98da44f4a5ec980c34eb",
+      "paths": [
+        "Art/Refrigerator/00009.jpg",
+        "Art/Refrigerator/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "c95dd74b753a4f34f883624d28655b12f68d4943f49e957c3b6182e697b4854b",
+      "paths": [
+        "Art/Refrigerator/00012.jpg",
+        "Art/Refrigerator/00033.jpg"
+      ]
+    },
+    {
+      "sha256": "d9bbd76323b5a21714bd76d018cbb5a0773b734e25acfb98b2dc982512d6980d",
+      "paths": [
+        "Art/Refrigerator/00016.jpg",
+        "Art/Refrigerator/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "837bcf03415f87e2040e24102e0c4168338eff6faf7ebd9b5c96bebab16e6862",
+      "paths": [
+        "Art/Refrigerator/00018.jpg",
+        "Art/Refrigerator/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "7931fedd983a8ec6c73e5307700849157a2d19533db01a673e7b6b6b0cec9192",
+      "paths": [
+        "Art/Refrigerator/00019.jpg",
+        "Art/Refrigerator/00047.jpg"
+      ]
+    },
+    {
+      "sha256": "410c056c9463331313967f1252c56147af9763ca4efdb78ee11357471f0be2ae",
+      "paths": [
+        "Art/Screwdriver/00001.jpg",
+        "Art/Screwdriver/00023.jpg",
+        "Real World/Screwdriver/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "1c6133498d85df906d316918aaf63e6d5e8eab1167df17e52440fcef6acff0bc",
+      "paths": [
+        "Art/Screwdriver/00002.jpg",
+        "Art/Screwdriver/00020.jpg"
+      ]
+    },
+    {
+      "sha256": "6dd89e4e5ead4644eef5d099fa5a66d3ee6088fa993cd8268d7a6e5d8d58e9d4",
+      "paths": [
+        "Art/Screwdriver/00007.jpg",
+        "Art/Screwdriver/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "acf99f9fff985fbcecc2ab419d1d48cc2cdab99eeec620c3d330ff085acd1065",
+      "paths": [
+        "Art/Shelf/00001.jpg",
+        "Art/Shelf/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "7f8c4adaaa45dffdde0e03478d4bf84516a7b2a09ab0980b990ca73d7f5a212c",
+      "paths": [
+        "Art/Shelf/00002.jpg",
+        "Art/Shelf/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "ee08eec655e566ad90856ac7a227c20ce9c00cc0f21da009768989673310c0b3",
+      "paths": [
+        "Art/Shelf/00003.jpg",
+        "Art/Shelf/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "aa98db4f4139aab8a7c510b0b0bfe1204adab0260095d116c3a891792af71fd1",
+      "paths": [
+        "Art/Shelf/00004.jpg",
+        "Art/Shelf/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "a4f9a71a5a05d308ca10eafb2a6e663f45469a49da419e5cb6ec5a805d472125",
+      "paths": [
+        "Art/Shelf/00007.jpg",
+        "Art/Shelf/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "d7e9029d50cf933d11759cbdb195c376561d56e1439980e09f8f9acbdc9d01db",
+      "paths": [
+        "Art/Shelf/00008.jpg",
+        "Art/Shelf/00041.jpg"
+      ]
+    },
+    {
+      "sha256": "a656ac079e0fbd9368ad6242417d9643a5a116b9544d921c20624022b7415140",
+      "paths": [
+        "Art/Shelf/00024.jpg",
+        "Art/Shelf/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "6c5e3b4d856c888c9a60c10b71394e36d6bed34b161a6e172ec3f0da3d976cf1",
+      "paths": [
+        "Art/Sneakers/00015.jpg",
+        "Real World/Sneakers/00047.jpg"
+      ]
+    },
+    {
+      "sha256": "e42e1f3ad11d9cee7c7479d1434e91522838048e233b9211e772f8ba846aa66f",
+      "paths": [
+        "Art/Sneakers/00018.jpg",
+        "Art/Sneakers/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "201a5acfda282b50714243a21fc6135a827c58095dd05587200bb21c2d8d9a4e",
+      "paths": [
+        "Art/Soda/00001.jpg",
+        "Art/Soda/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "2b4a4455a6918c0c0739efb0c0e24081419c86ba77caa070a8a0bb3b5642c90b",
+      "paths": [
+        "Art/Soda/00002.jpg",
+        "Art/Soda/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "ee6c3e1abf307a4e845ad487afa825b8f605eac49ae1593e0e7eaa8366519a7d",
+      "paths": [
+        "Art/Soda/00004.jpg",
+        "Art/Soda/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "ef8aaf85192200df9b7929f42db4a44c055659de2486c34b1b3eda829fc0410d",
+      "paths": [
+        "Art/Soda/00005.jpg",
+        "Art/Soda/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "8c6d42762b633ab67289368e71c204f9ddda4e64bcfcddd2763cfa97013a4a60",
+      "paths": [
+        "Art/Soda/00006.jpg",
+        "Art/Soda/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "3736d659fdf8b9eef7570fcd8308a8875b48922a816274f01f368c24d2b6ad1b",
+      "paths": [
+        "Art/Soda/00008.jpg",
+        "Art/Soda/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "0b27aa620aee863ccab228ac5b191e7841b94ca2f8569e146b031f964285b299",
+      "paths": [
+        "Art/Soda/00010.jpg",
+        "Art/Soda/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "5f74691830a7128377eeccf3bf61e5c246326dcfe8f669f6977895e40fb18377",
+      "paths": [
+        "Art/Soda/00014.jpg",
+        "Art/Soda/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "193a5ba48947ed38152fda013e74d43d13837782e6ef42ae1aca14a8b012fc50",
+      "paths": [
+        "Art/Spoon/00002.jpg",
+        "Art/Spoon/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "67daf9822b32c379d5ec49123d2db4fe68453b56b4228437934c8dbca7ff8013",
+      "paths": [
+        "Art/Spoon/00005.jpg",
+        "Art/Spoon/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "563735bd17625aa82bffd67bc95479597a1dab719a0baebd62a80ee4d464d168",
+      "paths": [
+        "Art/Spoon/00011.jpg",
+        "Art/Spoon/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "24a35682bb59d74c86fbf8d48bc94cad18807823b0342effebfd6918a3952bc0",
+      "paths": [
+        "Art/Spoon/00012.jpg",
+        "Art/Spoon/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "2ccf863356e065b58dd222dc367969943cd0ae2e3c677e34f93ad1aa698b0718",
+      "paths": [
+        "Art/Spoon/00016.jpg",
+        "Art/Spoon/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "46d79a3461954734d68ae7e429b806ee16517436fa93fe6221d2c25bb5d89145",
+      "paths": [
+        "Art/Spoon/00021.jpg",
+        "Art/Spoon/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "c8e5852c97f58c6e253cf0e3f523ebecffde5e11eb01da95896f6d6c9b230e6f",
+      "paths": [
+        "Art/Spoon/00022.jpg",
+        "Art/Spoon/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "bb81bbc05a2e90fee6430820c91790f4869a07cf148ef01da3586afd69fbb374",
+      "paths": [
+        "Art/Telephone/00001.jpg",
+        "Art/Telephone/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "b048a55a544894870aef12a6249e498719c423e159c32cea4cd8521325482d21",
+      "paths": [
+        "Art/Telephone/00002.jpg",
+        "Art/Telephone/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "adc2a7ae34b402847bb90fc4f54970cdfe342fc8d99bc2decbc722657aa0ed41",
+      "paths": [
+        "Art/Telephone/00004.jpg",
+        "Art/Telephone/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "17e21c317cc8f4e31bc1e24c6fd47ecdcaea0aa729f6bfc0d8fb2256349c318d",
+      "paths": [
+        "Art/Telephone/00005.jpg",
+        "Art/Telephone/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "7838611e92bc72544073433c19fc6e87329d0776e95d5e7904aa264dea755b7c",
+      "paths": [
+        "Art/Telephone/00006.jpg",
+        "Art/Telephone/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "18ca99a47298b6645b75f96894129db7bfdc731ffdc8aa470ae7e81f69690751",
+      "paths": [
+        "Art/Telephone/00007.jpg",
+        "Art/Telephone/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "50d95cae6943510ff3e0b1d9a7cc6f771f1d8731a301e1af16d0fee480f538eb",
+      "paths": [
+        "Art/Telephone/00009.jpg",
+        "Art/Telephone/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "9fba7953f2224bfc806e07b0e7d0329e645dc65ab368de9ec835970833428cab",
+      "paths": [
+        "Art/ToothBrush/00001.jpg",
+        "Art/ToothBrush/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "931c65b44efbd16ee4ea67f2e06690211abf0718fe0f78eb4c2ae83a34ead734",
+      "paths": [
+        "Art/ToothBrush/00003.jpg",
+        "Art/ToothBrush/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "7173610dfdfc963aaa73142f95e753dc3b9e03946c9cbcd22e7b41193ddba5f8",
+      "paths": [
+        "Art/ToothBrush/00005.jpg",
+        "Art/ToothBrush/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "00e04120eb87d7b1bda99e98779e360670ff4538335a43bb3149244fa0e89c04",
+      "paths": [
+        "Art/ToothBrush/00013.jpg",
+        "Art/ToothBrush/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "14a9bdc2aed1f1b47201a16cae65ea824c4dd48d37c7a39c39286bf1a4609c4f",
+      "paths": [
+        "Art/ToothBrush/00015.jpg",
+        "Art/ToothBrush/00041.jpg"
+      ]
+    },
+    {
+      "sha256": "3c035f1c3e511272772472ff8919a697a284b58f04af525081d2bbf600ade3fc",
+      "paths": [
+        "Art/ToothBrush/00028.jpg",
+        "Art/ToothBrush/00033.jpg"
+      ]
+    },
+    {
+      "sha256": "43426b4b702dd3db90d3e0961663078e336244025d6e01646a85a2fb5ca3e36c",
+      "paths": [
+        "Art/Trash_Can/00012.jpg",
+        "Real World/Trash_Can/00062.jpg"
+      ]
+    },
+    {
+      "sha256": "8d9bb26bcc9514e121df5e7aed6bf69cde531a72884adb35fd15b35fe2e89993",
+      "paths": [
+        "Art/TV/00003.jpg",
+        "Art/TV/00005.jpg"
+      ]
+    },
+    {
+      "sha256": "933422ca527582c134be3dacdb310c6c0ecd32aa7b9cf82fc7b0aad8f6495c8e",
+      "paths": [
+        "Clipart/Alarm_Clock/00002.jpg",
+        "Clipart/Alarm_Clock/00021.jpg",
+        "Clipart/Shelf/00002.jpg"
+      ]
+    },
+    {
+      "sha256": "cbc1ab0d31f78de0ca0bd56b3611db2091a416e033c38c622ccb85f3bcf6fbd7",
+      "paths": [
+        "Clipart/Alarm_Clock/00029.jpg",
+        "Clipart/Bed/00073.jpg"
+      ]
+    },
+    {
+      "sha256": "fe79e00f452e345c6a824bcfc42adbfc5d040ad940338bb47714bee97460cc9f",
+      "paths": [
+        "Clipart/Bed/00005.jpg",
+        "Clipart/Bed/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "a449609d0a699f1d715b0c1a39c88018c5824dcdd38b7461f53088476c45f307",
+      "paths": [
+        "Clipart/Bed/00006.jpg",
+        "Clipart/Couch/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "215513b2c4024d6881bb9d6d635859737f90904bb1c018fc938e5761952db1d1",
+      "paths": [
+        "Clipart/Bed/00010.jpg",
+        "Clipart/Bed/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "c3e43f3daca102e1adc15815bb2043964ff3306d6efe9f19a2ad75b56a706953",
+      "paths": [
+        "Clipart/Bed/00011.jpg",
+        "Clipart/Bed/00025.jpg"
+      ]
+    },
+    {
+      "sha256": "6b768ed2447bd5b8da32cb9491145ec890b010a415a26d55b472c31d1782345e",
+      "paths": [
+        "Clipart/Bike/00023.jpg",
+        "Clipart/Bike/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "0bb2c2ebec99855bcf69231b8e4327bf5d61de51b3a5409f376f39fbabf17197",
+      "paths": [
+        "Clipart/Bike/00030.jpg",
+        "Clipart/Bike/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "929e8d1fa38dd1f034fd9d3964a0fd89e9d73d87db498b9388849e514d240301",
+      "paths": [
+        "Clipart/Bottle/00018.jpg",
+        "Clipart/Soda/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "ee1cc0e860198cd8d3ab6fce636aa266bfbe6f71a0de36e32664c46a0cd5665a",
+      "paths": [
+        "Clipart/Bottle/00028.jpg",
+        "Clipart/Soda/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "4616fe3f334acc9a9361cd151500b93bae3ceef071e3ca1e461c98f68df6f069",
+      "paths": [
+        "Clipart/Bottle/00088.jpg",
+        "Clipart/Soda/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "5615951538914a8ccfaac07f328ce7c3ead4f601487b4f85aed2eaa21b06abf0",
+      "paths": [
+        "Clipart/Bucket/00006.jpg",
+        "Clipart/Mop/00003.jpg"
+      ]
+    },
+    {
+      "sha256": "2c34bd827e63e12dd3124a72a32a8122ce6f0fe5d6938ebd78fb17f6d6d8de40",
+      "paths": [
+        "Clipart/Bucket/00007.jpg",
+        "Clipart/Mop/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "1fef8905837fef7b5e117820c87e5c93226cb499ba62ed384f449bd9d060adb2",
+      "paths": [
+        "Clipart/Bucket/00009.jpg",
+        "Clipart/Bucket/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "99c66312f84e43648b6d2d307ec706d566b34f111666871985ac29a9802d1016",
+      "paths": [
+        "Clipart/Bucket/00021.jpg",
+        "Clipart/Bucket/00033.jpg"
+      ]
+    },
+    {
+      "sha256": "995262ae6616064661663ea8fdb8f1b12dcc909db7bdafe20f3cd59e9c46e947",
+      "paths": [
+        "Clipart/Bucket/00068.jpg",
+        "Clipart/Mop/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "2c8e86301e2a5507a5e990d355df6cdf5f15f3d5d231e68c7d214db07c6fe42d",
+      "paths": [
+        "Clipart/Bucket/00069.jpg",
+        "Clipart/Mop/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "9d17917a7e7f69fac7294c409beee94a1da235dcd6cc039922cc1bab9aef9517",
+      "paths": [
+        "Clipart/Bucket/00070.jpg",
+        "Clipart/Mop/00020.jpg"
+      ]
+    },
+    {
+      "sha256": "5c6a23b3858cd528a1d7bfe10b8c80f8fabbc0f5663510cba7482d0b50d2089e",
+      "paths": [
+        "Clipart/Candles/00025.jpg",
+        "Clipart/Candles/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "311a43d07758509e733dd28d17bb68725eeb96b4e8efad935b4e132079385c0f",
+      "paths": [
+        "Clipart/Chair/00017.jpg",
+        "Clipart/Couch/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "6a4d70f4e2aabee037b3ffd227aca633b854efb76547904d4f25b34fb23c2aec",
+      "paths": [
+        "Clipart/Chair/00020.jpg",
+        "Clipart/Couch/00009.jpg"
+      ]
+    },
+    {
+      "sha256": "202ffb565ca6bac77cbac1f499febd66bdc9cb7ab609a497f4b690574f4dc32c",
+      "paths": [
+        "Clipart/Chair/00023.jpg",
+        "Clipart/Chair/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "1c140075464062887bb9b876fb3964532953ce547f1a49bb95f694ed05bea547",
+      "paths": [
+        "Clipart/Chair/00060.jpg",
+        "Clipart/Chair/00061.jpg"
+      ]
+    },
+    {
+      "sha256": "6cfc24eba52d93ee596144d068fc4f25ca7d98f9c40f639166e48edbd25093e7",
+      "paths": [
+        "Clipart/Computer/00002.jpg",
+        "Clipart/Laptop/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "8f10eceaea3457e3bd6ca9a932509fadfc7086e6c3ecbc39eb056f5c3836c124",
+      "paths": [
+        "Clipart/Computer/00004.jpg",
+        "Clipart/Keyboard/00001.jpg",
+        "Clipart/Monitor/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "a4ec8887a93c406c7ce96b30aa6e26afe46b64aec651889ac78ecb7a8bb04afb",
+      "paths": [
+        "Clipart/Computer/00008.jpg",
+        "Clipart/Laptop/00002.jpg"
+      ]
+    },
+    {
+      "sha256": "2bc7254241e0a4720be7bb1a928a567999cbed8b04ec44e47bca28680741bf8d",
+      "paths": [
+        "Clipart/Computer/00009.jpg",
+        "Clipart/Monitor/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "a36e7d0b1d988a1cda48906de3290d36b8bebb2fcd8f52da3ad63ee2de1b6cee",
+      "paths": [
+        "Clipart/Computer/00010.jpg",
+        "Clipart/Keyboard/00003.jpg"
+      ]
+    },
+    {
+      "sha256": "4190c8c6fcf9126e95de5054f0a9bc84803cd6e1cfcf9683ad7b3d9463da5ba6",
+      "paths": [
+        "Clipart/Computer/00011.jpg",
+        "Clipart/Keyboard/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "f652c5ed0cbba32eff9ad2aaedbf08a8a624bb86103f1b84a7afddcbae7b9024",
+      "paths": [
+        "Clipart/Curtains/00007.jpg",
+        "Clipart/Curtains/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "e20a3c91814f819bcb273ac744f7f9f56cc52dd0e02b0d5a1e33ed81bda1970e",
+      "paths": [
+        "Clipart/Desk_Lamp/00004.jpg",
+        "Clipart/Desk_Lamp/00013.jpg"
+      ]
+    },
+    {
+      "sha256": "2a80e4321faef300968ec9143438f621125561236246551447b071a182abfe93",
+      "paths": [
+        "Clipart/Desk_Lamp/00008.jpg",
+        "Clipart/Lamp_Shade/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "338e5f50e49ed6c175fb66b4c9b5f26475e4287b74b53e8bacea9af66dd21e18",
+      "paths": [
+        "Clipart/Desk_Lamp/00018.jpg",
+        "Clipart/Lamp_Shade/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "6774d1689c55eda95a9b5e801427e78a802b6cc5dc33a14b48fd395dc2fb241f",
+      "paths": [
+        "Clipart/Desk_Lamp/00021.jpg",
+        "Clipart/Lamp_Shade/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "1d88840de1a8f433e426aa4ae325439a5d480a1372dd6c5a3813554c1b999567",
+      "paths": [
+        "Clipart/Desk_Lamp/00023.jpg",
+        "Clipart/Lamp_Shade/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "3b2460adab4495d172487346d61167abacdc2de28bbb817cb3ff995282d93d48",
+      "paths": [
+        "Clipart/Desk_Lamp/00024.jpg",
+        "Clipart/Lamp_Shade/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "bb5aae8dd4d9d3a3c0d6d0bf42a8a4bfd937668baf615fc3fdae6dcbcf7e8af3",
+      "paths": [
+        "Clipart/Desk_Lamp/00026.jpg",
+        "Clipart/Lamp_Shade/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "af23f92a256a429e79f37f9a175447d4eb3d0d878d847ff63b9d59b3e4d0470e",
+      "paths": [
+        "Clipart/Desk_Lamp/00027.jpg",
+        "Clipart/Lamp_Shade/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "57031d29616ff6e943c40d08c59ad18e8d8a2f5683e943a5799dddfb856ffdde",
+      "paths": [
+        "Clipart/Desk_Lamp/00029.jpg",
+        "Clipart/Lamp_Shade/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "8dfa92f5e622ed4ea88acce91ddc0acc62ebfa2518e615fcdda232ecd36304cb",
+      "paths": [
+        "Clipart/Desk_Lamp/00039.jpg",
+        "Clipart/Lamp_Shade/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "b6bd167a8f2d0cb767ffc0b1f3fb85bd5adaabbab79516d20d785f9c9de669ad",
+      "paths": [
+        "Clipart/Drill/00001.jpg",
+        "Clipart/Drill/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "6fba9946bf108b51d96ede80ff29e1f92d67cccf0fa70df8597a6a5366fd9485",
+      "paths": [
+        "Clipart/Drill/00015.jpg",
+        "Clipart/Drill/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "a034f20fa5a871c633e227ddd923d318d07306c01f089b5477ff47793cc34798",
+      "paths": [
+        "Clipart/Eraser/00013.jpg",
+        "Clipart/Eraser/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "5b78a7ce73be917eaa9374bda409357623b067669d85399df71ce7ae261a2546",
+      "paths": [
+        "Clipart/File_Cabinet/00020.jpg",
+        "Clipart/File_Cabinet/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "6758300ff2e093a0855432fc346e8868bee038be1a128541a67f584454edfcfd",
+      "paths": [
+        "Clipart/Flowers/00006.jpg",
+        "Clipart/Flowers/00056.jpg"
+      ]
+    },
+    {
+      "sha256": "4e750d7ed6cd173f08864ddfa5e9938f5a138f4557fe00a811faebb7b31e7371",
+      "paths": [
+        "Clipart/Folder/00010.jpg",
+        "Clipart/Notebook/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "6e0b4d4e8cad373dacae8248257a8bc414a9bb2ceceb55cd5b0824f2f406e1f9",
+      "paths": [
+        "Clipart/Folder/00060.jpg",
+        "Clipart/Folder/00061.jpg"
+      ]
+    },
+    {
+      "sha256": "29b3a7f3fcd93d9035aa5da681411a7e9c273f6321478d829dfd74dbbe560832",
+      "paths": [
+        "Clipart/Folder/00067.jpg",
+        "Clipart/Folder/00075.jpg"
+      ]
+    },
+    {
+      "sha256": "5ddb04e22a6154a6229d357f6bfd8699f410c4ba2725e2293f7c3ead83014a9d",
+      "paths": [
+        "Clipart/Fork/00007.jpg",
+        "Clipart/Spoon/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "43c06e939a949461eeaa6c5aa25ac8c922d03e8367676dc7b39852adee4197c1",
+      "paths": [
+        "Clipart/Fork/00012.jpg",
+        "Clipart/Knives/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "cba5bd321c9cec737e3ef8ce3483f3f1545b086e4d4133d16c42a25c0366a039",
+      "paths": [
+        "Clipart/Fork/00044.jpg",
+        "Clipart/Spoon/00048.jpg"
+      ]
+    },
+    {
+      "sha256": "ee6f44fa6cf754fc40cf95a07cee4e95f443a5dfe962e358ceb1d45e4d49fdcd",
+      "paths": [
+        "Clipart/Glasses/00001.jpg",
+        "Clipart/Mug/00005.jpg"
+      ]
+    },
+    {
+      "sha256": "d7b55afad75ecd7f9dcbe3f58f69d7b38cb238037168c5018bf69e1516f1dc3f",
+      "paths": [
+        "Clipart/Hammer/00016.jpg",
+        "Clipart/Hammer/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "47c4dd23534d54b656939d925e33137daf60cd6347aed9ec816e1d66f815a305",
+      "paths": [
+        "Clipart/Hammer/00018.jpg",
+        "Clipart/Hammer/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "e69c29645d69a17a6c73398bd92e76c429946f34e20cb1050d26abf96a6244d9",
+      "paths": [
+        "Clipart/Kettle/00001.jpg",
+        "Clipart/Kettle/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "4865edcdcb90cd3e6e3a84bc2e7a67c7f14c973733105696347594144a3b2de7",
+      "paths": [
+        "Clipart/Kettle/00011.jpg",
+        "Clipart/Kettle/00012.jpg"
+      ]
+    },
+    {
+      "sha256": "8b23fd2b1fed40ed10e1ed0c7307b29db5cf307c48c4d76fcc7a8751037093e9",
+      "paths": [
+        "Clipart/Keyboard/00007.jpg",
+        "Clipart/Monitor/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "85beed838dfb0a4f420fcd1ce1a6b31f6d0eef318e0d789a7c835a2f23fdc478",
+      "paths": [
+        "Clipart/Keyboard/00008.jpg",
+        "Clipart/Monitor/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "d36534c8940e851ee904aec57095e17ad1a60b07c8f61365a7e0ef682eccb5cc",
+      "paths": [
+        "Clipart/Keyboard/00012.jpg",
+        "Clipart/Monitor/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "b5c31ff8d1809c089ca914b30f088ded218afcdd174cae6b54353786ceb91edd",
+      "paths": [
+        "Clipart/Keyboard/00017.jpg",
+        "Clipart/Keyboard/00053.jpg"
+      ]
+    },
+    {
+      "sha256": "a9f16ab0c2e18750ab63d89c241ce09da9ebfac692be853be663078824ead267",
+      "paths": [
+        "Clipart/Keyboard/00044.jpg",
+        "Clipart/Monitor/00093.jpg"
+      ]
+    },
+    {
+      "sha256": "3ebb487d08347ee631096a21096cc1faee31acdc3045548bea34b9f4b1217b43",
+      "paths": [
+        "Clipart/Keyboard/00050.jpg",
+        "Clipart/Keyboard/00077.jpg",
+        "Clipart/Laptop/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "2fe0c9e82a1665a3f0ab46d1460f4d62ee3f55e589c3d8078e7d989efb7c32fc",
+      "paths": [
+        "Clipart/Keyboard/00060.jpg",
+        "Clipart/Laptop/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "fa3debdfddb25435d90600eae52bf0d872ce2907ab8177aeb6bc5cb3e1004135",
+      "paths": [
+        "Clipart/Keyboard/00062.jpg",
+        "Clipart/Laptop/00059.jpg"
+      ]
+    },
+    {
+      "sha256": "1df399a94647450566cc491ee4d96a3808b2c560e83c344a6eb1cf043f0f6fb6",
+      "paths": [
+        "Clipart/Keyboard/00096.jpg",
+        "Clipart/Mouse/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "e098935149c78cd32ca20133a4a29a34daaf491d05628b295fe9ad0548e369d5",
+      "paths": [
+        "Clipart/Laptop/00048.jpg",
+        "Clipart/Laptop/00053.jpg"
+      ]
+    },
+    {
+      "sha256": "1d38b5f363f9568aa55c52713e1e4e4fc33a7e8fbe420c7996529ac6f8f4f0e8",
+      "paths": [
+        "Clipart/Marker/00005.jpg",
+        "Clipart/Pen/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "8ba4bfc24b581ca8318bde5deff2e4bd2c617d495ad5a987f5a1f8b564cf025d",
+      "paths": [
+        "Clipart/Marker/00046.jpg",
+        "Clipart/Marker/00049.jpg"
+      ]
+    },
+    {
+      "sha256": "279c4a9a6cf73b93ef67169a682c6c5b30d8b322d59c7fb0f3ef44b750ee1033",
+      "paths": [
+        "Clipart/Marker/00047.jpg",
+        "Clipart/Marker/00050.jpg"
+      ]
+    },
+    {
+      "sha256": "5493c65e1d85d43d05369af2ae5dd5690e73b5f82b06f9bccd11d98e0aeaf969",
+      "paths": [
+        "Clipart/Marker/00048.jpg",
+        "Clipart/Marker/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "f43b04d252f4362c17339e5f3bd02a5c136f906088e094894423c3f06e04938a",
+      "paths": [
+        "Clipart/Monitor/00013.jpg",
+        "Clipart/TV/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "1288f70eb7c25a98d50f7b89ff31b6c3e474bd4ab73509bdb05b2a4f8dd9863d",
+      "paths": [
+        "Clipart/Monitor/00016.jpg",
+        "Clipart/TV/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "e9d83faf1e74797578c4b18cbb17696bd019f779a68fa548741fc558d0292a66",
+      "paths": [
+        "Clipart/Monitor/00028.jpg",
+        "Clipart/TV/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "383de974f9f47a9e37967e5d88792f5056822d3ea06d894b9fc2e5e722820c98",
+      "paths": [
+        "Clipart/Monitor/00029.jpg",
+        "Clipart/TV/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "4392dd90f122d61f7cbb1f2335bac763a3745008337d7fa15a2e879b5c3d052e",
+      "paths": [
+        "Clipart/Monitor/00035.jpg",
+        "Clipart/Monitor/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "4115ceafd8c0426a1475102267d3582a8546d8e83ddc7f8674b3186d14bbdfce",
+      "paths": [
+        "Clipart/Monitor/00040.jpg",
+        "Clipart/TV/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "3c258a4550ef379686b27aeb21143f31f90aa54410186148e488405ee546e932",
+      "paths": [
+        "Clipart/Monitor/00052.jpg",
+        "Clipart/TV/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "0d0f50da7afa364a8430d6888030fd1b2133b40a18529f2d8e3fe7fecc132202",
+      "paths": [
+        "Clipart/Monitor/00065.jpg",
+        "Clipart/TV/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "f35413d2cd3f3988801f42325b80d81121cb7277bdabbc51e26ae9cf898b82bd",
+      "paths": [
+        "Clipart/Monitor/00077.jpg",
+        "Clipart/TV/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "0ab31365db53025e7f71208b7faf8ad2463808b15c6cb732f1d8a9f7bff2d66f",
+      "paths": [
+        "Clipart/Monitor/00080.jpg",
+        "Clipart/TV/00050.jpg"
+      ]
+    },
+    {
+      "sha256": "9230a1ef9aa0e399b1e2fc9bb28a843415ab721d1105216c69ccbe5164543fa6",
+      "paths": [
+        "Clipart/Monitor/00081.jpg",
+        "Clipart/TV/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "7c7c1d45b55237d414b768c2d70b609db80c3ab89f36c0314a86e026552dcd0e",
+      "paths": [
+        "Clipart/Monitor/00084.jpg",
+        "Clipart/Monitor/00087.jpg"
+      ]
+    },
+    {
+      "sha256": "b0e150cb66252977a6fe1d44d8baa9528071d14234e125d748beab851adf2065",
+      "paths": [
+        "Clipart/Monitor/00088.jpg",
+        "Clipart/TV/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "9cf21798edb1295d15db851d7a6dff9e7ce72c99aa55b028bdf8e4a38f874042",
+      "paths": [
+        "Clipart/Mouse/00004.jpg",
+        "Clipart/Mouse/00014.jpg"
+      ]
+    },
+    {
+      "sha256": "04691e08afab7b47dc27c9c230841f0133ba634b84f161a905e79d743e9f1185",
+      "paths": [
+        "Clipart/Mouse/00054.jpg",
+        "Clipart/Mouse/00076.jpg"
+      ]
+    },
+    {
+      "sha256": "c584cdf66655f68529a285279c6fbdefd5b16dd94804562504478bcef6490f57",
+      "paths": [
+        "Clipart/Oven/00006.jpg",
+        "Clipart/Oven/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "0ddc6d90e75b61607cfaf95a387c8fc8236a1a6bc9452868a559c4a6a608ece2",
+      "paths": [
+        "Clipart/Pen/00040.jpg",
+        "Clipart/Pencil/00069.jpg"
+      ]
+    },
+    {
+      "sha256": "e0efa4a211a4cae96a2606f2c83254491c78e3486781409fdd9fc9eb550a7970",
+      "paths": [
+        "Clipart/Pen/00048.jpg",
+        "Clipart/Pen/00049.jpg"
+      ]
+    },
+    {
+      "sha256": "dedf511c570f8ebbab1662fb81f36dbb1d58ae91f67c61c23e0fdd7e0aa032d2",
+      "paths": [
+        "Clipart/Pencil/00013.jpg",
+        "Clipart/Postit_Notes/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "50d0374252a436f3dcf7fafd63134a4823ad596680993b03af645b330d05da4e",
+      "paths": [
+        "Clipart/Pencil/00065.jpg",
+        "Clipart/Pencil/00066.jpg"
+      ]
+    },
+    {
+      "sha256": "48b828a428bfdf040f6dfd51b83209fec7c9de8e4771663e49d0772e71c0783d",
+      "paths": [
+        "Clipart/Printer/00030.jpg",
+        "Clipart/Printer/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "1b5458bdf5177a099640dee4104e13afd678d880aeb9fb4159caef28fd8521cf",
+      "paths": [
+        "Clipart/Printer/00036.jpg",
+        "Clipart/Printer/00041.jpg"
+      ]
+    },
+    {
+      "sha256": "45c3b2fba857d004f4324bccd5ca87b3d5e29141e7847984bafd04729f660629",
+      "paths": [
+        "Clipart/Printer/00074.jpg",
+        "Clipart/Printer/00076.jpg"
+      ]
+    },
+    {
+      "sha256": "6d2b412c0d5300963d996918ae3e79ad25d6cd7dab77f22fc22caf16ca20030e",
+      "paths": [
+        "Clipart/Refrigerator/00007.jpg",
+        "Clipart/Refrigerator/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "233763f175dff756a23bc61945679f9237d2b0470128e085928d7067eb1e0a30",
+      "paths": [
+        "Clipart/Scissors/00001.jpg",
+        "Clipart/Scissors/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "26157a2af578bf5d4edffb873b9541c8d244216ef82965abe730907ba3f75642",
+      "paths": [
+        "Clipart/Scissors/00002.jpg",
+        "Clipart/Scissors/00050.jpg"
+      ]
+    },
+    {
+      "sha256": "599ffd3cfeb4af3fd1f2b17c47c17f02de8e8ea697ee80f94be03e9721cffd59",
+      "paths": [
+        "Clipart/Scissors/00004.jpg",
+        "Clipart/Scissors/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "99c327bf5a28ce143149bd2fa02584d01015d88a1bbf5c2f7e1d4d0d5bc0c2a4",
+      "paths": [
+        "Clipart/Scissors/00013.jpg",
+        "Clipart/Scissors/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "9acc7ce12625621e9025ddcd3f605e52260ae5af0b614c2424d03ed7e552961b",
+      "paths": [
+        "Clipart/Scissors/00056.jpg",
+        "Clipart/Scissors/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "bf74f983ddf189b6de0b47e7ff10ac21ccea7b4ea0c666d5c1e970a9667c0625",
+      "paths": [
+        "Clipart/Screwdriver/00030.jpg",
+        "Clipart/Screwdriver/00053.jpg"
+      ]
+    },
+    {
+      "sha256": "3ded70059a172deb99a82c71443ca9373de9b305d8969cf0e30c4ada7efae77e",
+      "paths": [
+        "Clipart/Screwdriver/00031.jpg",
+        "Clipart/Screwdriver/00054.jpg"
+      ]
+    },
+    {
+      "sha256": "4dbe479a0d7f47e3abc17065ef4701d59650d95ac89215126b4d2e169552fd46",
+      "paths": [
+        "Clipart/Screwdriver/00032.jpg",
+        "Clipart/Screwdriver/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "1f3cae899147d085164681bc961bb6d84a9cff95e8050cf21bb7f7d281dc7d76",
+      "paths": [
+        "Clipart/Screwdriver/00050.jpg",
+        "Clipart/Screwdriver/00056.jpg"
+      ]
+    },
+    {
+      "sha256": "dc7f014be24a5a6d68c822e375eab96d0c1f6677e49215bfc3f3e4c832a4db7b",
+      "paths": [
+        "Clipart/Sink/00005.jpg",
+        "Clipart/Sink/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "281ef7b8bba9e59bafb56fe4f93ac8d20b0a1fc29b11054f15ebd239e7d78c70",
+      "paths": [
+        "Clipart/Sink/00006.jpg",
+        "Clipart/Sink/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "27f8f01f7e83835d04ab27c9e20a6bb119d509f420858c8d91c025808ca9eb12",
+      "paths": [
+        "Clipart/Soda/00019.jpg",
+        "Clipart/Soda/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "929f3e54636fd700d5595f933d1e8845e0410d0ccdedf9f86a6d0422109672fb",
+      "paths": [
+        "Clipart/Spoon/00007.jpg",
+        "Clipart/Spoon/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "a896c5ba22159aea23de4f5160ad62a9a6e35acfbae8ff1c65306dc3b76b86f7",
+      "paths": [
+        "Clipart/Table/00070.jpg",
+        "Clipart/Table/00077.jpg"
+      ]
+    },
+    {
+      "sha256": "a0290cb9493853910e929027023696aa4a2943333fb6a245f6372f2b8b7c6a60",
+      "paths": [
+        "Clipart/Toys/00019.jpg",
+        "Clipart/Toys/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "c5e53933419900c946b19c5ccf82a227654019185db4256a9cb955a774c74208",
+      "paths": [
+        "Clipart/TV/00010.jpg",
+        "Clipart/TV/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "10e3070e393c64112448b4996a94e7709f578c64def41b795d62c51688c12807",
+      "paths": [
+        "Product/Alarm_Clock/00054.jpg",
+        "Product/Alarm_Clock/00055.jpg"
+      ]
+    },
+    {
+      "sha256": "cccb563d09bbe1778a84bb725daab6635fccc8d40ce85b28d1cd3704ed3ad040",
+      "paths": [
+        "Product/Backpack/00031.jpg",
+        "Product/Backpack/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "29be3e4bea7931bdbfbb6295f408b9e898fe5249db79880a4729750c887d5070",
+      "paths": [
+        "Product/Backpack/00040.jpg",
+        "Product/Backpack/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "64a7c1baa7886cae73f53091824c10042a4913821b44e2ec900189438870cf50",
+      "paths": [
+        "Product/Backpack/00047.jpg",
+        "Product/Backpack/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "5e96909d0b179fc157b2401a37758a8213abbdb6d5d7a9294c17a9716cec6eda",
+      "paths": [
+        "Product/Backpack/00062.jpg",
+        "Product/Backpack/00066.jpg"
+      ]
+    },
+    {
+      "sha256": "df59d5ea484d1cb9e43f445572b5920a750e57823de9d75359cc78796fbb467f",
+      "paths": [
+        "Product/Backpack/00069.jpg",
+        "Product/Backpack/00073.jpg"
+      ]
+    },
+    {
+      "sha256": "df5cefbf744d35a67eea2b9ef5c3f3163829f8c57aa1cef6dd3e1ac258039bca",
+      "paths": [
+        "Product/Backpack/00074.jpg",
+        "Product/Backpack/00077.jpg"
+      ]
+    },
+    {
+      "sha256": "cdcf505eae2059037b29575df6bef8ef25159e0f379c57cb7fc307bee97df13e",
+      "paths": [
+        "Product/Backpack/00082.jpg",
+        "Product/Backpack/00085.jpg"
+      ]
+    },
+    {
+      "sha256": "66e3775324389bf21c33c5beb13fe4069fc5f787f963627230d1afff791d22e8",
+      "paths": [
+        "Product/Backpack/00091.jpg",
+        "Product/Backpack/00093.jpg"
+      ]
+    },
+    {
+      "sha256": "446e8e6c5c8b3d261313a21b44e08aa3a979acb0beea147ff154f16b17a982c3",
+      "paths": [
+        "Product/Batteries/00024.jpg",
+        "Product/Batteries/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "d5a02fd122d6e88da93c5b930f66b2f3bf13b4f6704aed33ab2975d1986ac460",
+      "paths": [
+        "Product/Batteries/00026.jpg",
+        "Product/Batteries/00052.jpg"
+      ]
+    },
+    {
+      "sha256": "418c35f2eff507bfaf76c824d6bfa255dc98dbe389ff3c1cfd80ea1c6e3ee097",
+      "paths": [
+        "Product/Bed/00003.jpg",
+        "Product/Bed/00005.jpg"
+      ]
+    },
+    {
+      "sha256": "75b49a704ccc7bf91266f4811b625455ec88a643ed09d75f8e673b2a527f4728",
+      "paths": [
+        "Product/Bed/00019.jpg",
+        "Product/Bed/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "ef3165b417bace5323dbf8129a7dfd3ae06a0d69f3663df289ffe979102bbd93",
+      "paths": [
+        "Product/Bed/00038.jpg",
+        "Product/Bed/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "a947de4e561a862b735b79c9b18b2a5690c7584148c72abb03fd5b47af80cef3",
+      "paths": [
+        "Product/Bike/00008.jpg",
+        "Product/Bike/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "504ad4bcc0a567496c12a5e82e7da592eaacf2368185bfbb515f7fc77714ae9d",
+      "paths": [
+        "Product/Bike/00011.jpg",
+        "Product/Bike/00013.jpg"
+      ]
+    },
+    {
+      "sha256": "e22cbd07a750d3464474c5682d4da78ba800a9cfea58d8037f643293f70aca02",
+      "paths": [
+        "Product/Bike/00014.jpg",
+        "Product/Bike/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "97c795ef0a88dd67b167c07bcdb2128087750d6b7d1f6f66827b1b80a1f758de",
+      "paths": [
+        "Product/Bike/00021.jpg",
+        "Product/Bike/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "c42e3d81f1f70efed1a4ec715445b69ec615a1e87b3cbdfa061f2629508a6380",
+      "paths": [
+        "Product/Bike/00028.jpg",
+        "Product/Bike/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "c05fc565e2a5e366e59a3c3054f7b94c1625d0209ebdf1871092fc1ff8d9938a",
+      "paths": [
+        "Product/Bike/00030.jpg",
+        "Product/Bike/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "aed9d69d0c9f3d6dae6dd73845d1abf434ae4d44b4c724f7d1c3171f7d45756f",
+      "paths": [
+        "Product/Bike/00034.jpg",
+        "Product/Bike/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "a03db091b8fd2a452bcc10f90cbdc78b2ea0430fd0f4d918446d048fe8a459e1",
+      "paths": [
+        "Product/Bike/00041.jpg",
+        "Product/Bike/00044.jpg"
+      ]
+    },
+    {
+      "sha256": "7b6b402dcad3a8e9adf6885dfbbf8e8779af00e0f4aac3ffb00629adc912029f",
+      "paths": [
+        "Product/Bottle/00005.jpg",
+        "Product/Bottle/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "80298a5d273d8efbf76b524f551dfefa226ad486e26c392f64293400c6cc4d53",
+      "paths": [
+        "Product/Bottle/00007.jpg",
+        "Product/Bottle/00009.jpg"
+      ]
+    },
+    {
+      "sha256": "6f21b4a4594a0b7172aff9e51c6bc3eedd3adaf0ba471879221d209f32983dd0",
+      "paths": [
+        "Product/Bottle/00011.jpg",
+        "Product/Bottle/00012.jpg"
+      ]
+    },
+    {
+      "sha256": "c04e5cf622cc0dbbe107b1b73846232d6422a66635c592218cd24847d2605fdb",
+      "paths": [
+        "Product/Bottle/00034.jpg",
+        "Product/Bottle/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "f1a2fb1336472853ea1c75c406323de14a8968fb1ad254665ff4c2d4e903ef2b",
+      "paths": [
+        "Product/Bottle/00037.jpg",
+        "Product/Bottle/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "a1e5c1c1baebe8aaffffc929f1e5fb772e136500533a02402924a7cad79873eb",
+      "paths": [
+        "Product/Bottle/00039.jpg",
+        "Product/Bottle/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "9b6b6bbd72e427650782ccdf529d284e57e7fc829ed0509081a051c1fc3d29d0",
+      "paths": [
+        "Product/Bottle/00041.jpg",
+        "Product/Bottle/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "b9d9eddeec1232f32e808000573d6cddeafcafe557abce2ff02312a399e6c0ac",
+      "paths": [
+        "Product/Bottle/00056.jpg",
+        "Product/Bottle/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "b64d42b75eda15ff85e0b361f9c0d237ecc8918d9414a6bd66df448448571b77",
+      "paths": [
+        "Product/Calendar/00001.jpg",
+        "Product/Notebook/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "b7b8a8604dde267887ba0292c86e6805f3d850133d9a211b9e1af0e49f28911f",
+      "paths": [
+        "Product/Candles/00015.jpg",
+        "Product/Candles/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "f08b65c1f16639710181fdff0263ea52385cb3663acff778d429f27e40f6503f",
+      "paths": [
+        "Product/Candles/00041.jpg",
+        "Product/Candles/00054.jpg"
+      ]
+    },
+    {
+      "sha256": "2b21aaa1699cd8f661a0240e11c444adf0e0b743835c9c98ade7e806f6f66987",
+      "paths": [
+        "Product/Chair/00001.jpg",
+        "Product/Chair/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "06e7a37bb62df0565f17ecca6d2358ccff7ff8b0460360b3bb2fad3d12ed4011",
+      "paths": [
+        "Product/Chair/00008.jpg",
+        "Product/Chair/00014.jpg"
+      ]
+    },
+    {
+      "sha256": "a71621956479b450d83efb805580b5773704b287e9f269d4d0aea1f3c0e234d7",
+      "paths": [
+        "Product/Chair/00060.jpg",
+        "Product/Chair/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "e83421bd1685dd381a8412509959c1f40d7b2ad79cd4ae443bc578907f7de988",
+      "paths": [
+        "Product/Chair/00066.jpg",
+        "Product/Chair/00067.jpg"
+      ]
+    },
+    {
+      "sha256": "fab6ea81b34720483a6946a3dce02a62b664d2c1efa5fc7fb21866a9e203feb6",
+      "paths": [
+        "Product/Chair/00089.jpg",
+        "Product/Chair/00090.jpg"
+      ]
+    },
+    {
+      "sha256": "ef1e91a037e550b0892092d283882901981651b7a41fdc24d4eccdb32ed77a37",
+      "paths": [
+        "Product/Chair/00093.jpg",
+        "Product/Chair/00094.jpg"
+      ]
+    },
+    {
+      "sha256": "a3b96d6cfdeb573e6156d389a3e045e60755fb835d7a8ef91a3365b18e98bf96",
+      "paths": [
+        "Product/Clipboards/00003.jpg",
+        "Product/Clipboards/00006.jpg",
+        "Product/Clipboards/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "d76b9bd4075c1bbd71348e929f710e0e7ff71f7e149cbdaff0bc1866fb5571e1",
+      "paths": [
+        "Product/Clipboards/00004.jpg",
+        "Product/Clipboards/00052.jpg"
+      ]
+    },
+    {
+      "sha256": "1e9f13cb9bb861cc6cb6726dab3155e18365ba8ee854dab543161038ad5755ed",
+      "paths": [
+        "Product/Clipboards/00005.jpg",
+        "Product/Clipboards/00015.jpg",
+        "Product/Clipboards/00053.jpg"
+      ]
+    },
+    {
+      "sha256": "0e60a90cc24f7f20f914dee2b15e06939d3453bb9adb6130e0859ffddb0d3178",
+      "paths": [
+        "Product/Computer/00019.jpg",
+        "Product/Laptop/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "d12cb7536d64cb8278b4eaedb9b42533de950ebc13e69d49280c4955976ce63c",
+      "paths": [
+        "Product/Computer/00025.jpg",
+        "Product/Computer/00052.jpg"
+      ]
+    },
+    {
+      "sha256": "ca8fc3cb3736c833409cc4ce10b2afd8d9d5bb467cf1bed29205adf51ae2d8bd",
+      "paths": [
+        "Product/Computer/00055.jpg",
+        "Product/Computer/00088.jpg"
+      ]
+    },
+    {
+      "sha256": "77a79414c52484b2121d09f373bcfa5bd398f6b489d6c171da893ba5dc4e21ed",
+      "paths": [
+        "Product/Computer/00075.jpg",
+        "Product/Computer/00077.jpg"
+      ]
+    },
+    {
+      "sha256": "b1a8405b0ecf14349d2957a6cc3b707c7f5967cedd2cade2975fc642be83c93c",
+      "paths": [
+        "Product/Computer/00078.jpg",
+        "Product/Computer/00090.jpg"
+      ]
+    },
+    {
+      "sha256": "ebb411bd9b8b09c9967456d7953e167948a6b772ab24779b7fab6575fced2168",
+      "paths": [
+        "Product/Computer/00080.jpg",
+        "Product/Computer/00092.jpg"
+      ]
+    },
+    {
+      "sha256": "df605973d329717de70cf377a7935acbb41f5eac50bf20cd8bb13b10a205b535",
+      "paths": [
+        "Product/Couch/00035.jpg",
+        "Product/Couch/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "8dea768793c62a4003e15b04cc622b17b5cda6243972efc233c9b5afb0724d93",
+      "paths": [
+        "Product/Couch/00050.jpg",
+        "Product/Couch/00052.jpg"
+      ]
+    },
+    {
+      "sha256": "b96927a91528e6551010786e23f73beb515157b3818ce5c08bc17c613118e295",
+      "paths": [
+        "Product/Couch/00069.jpg",
+        "Product/Couch/00071.jpg"
+      ]
+    },
+    {
+      "sha256": "ec63a320cadb02fd368701861fa77911a6c30edbfd76975cfa8617a633f51f7d",
+      "paths": [
+        "Product/Couch/00084.jpg",
+        "Product/Couch/00086.jpg"
+      ]
+    },
+    {
+      "sha256": "ca5809f60da9036ffddfc47c71b093ff3617a8cdc8f2cf62ac262b172917f2d1",
+      "paths": [
+        "Product/Curtains/00026.jpg",
+        "Product/Curtains/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "14c10e14e7e14081836c4f3a7698a3431d4298f02d434dc5d8a8e763f7fb2105",
+      "paths": [
+        "Product/Curtains/00057.jpg",
+        "Product/Curtains/00061.jpg"
+      ]
+    },
+    {
+      "sha256": "fcc327443de2bfea881f8bced69b92142c3d9096eded799d120dc01a1a882dc7",
+      "paths": [
+        "Product/Curtains/00062.jpg",
+        "Product/Curtains/00065.jpg"
+      ]
+    },
+    {
+      "sha256": "4ea42a70893b997c491d5bfeffa965846d5d05ce7ad2dea2a39209a1cddcf984",
+      "paths": [
+        "Product/Curtains/00067.jpg",
+        "Product/Curtains/00069.jpg"
+      ]
+    },
+    {
+      "sha256": "ce3893075f64a08e26908b5cd21899e7360fa19c4d35ce988e72f4b449f74c4b",
+      "paths": [
+        "Product/Desk_Lamp/00054.jpg",
+        "Product/Lamp_Shade/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "cd655987329896dc09dac913695e1ed94916dc0bc206f97c89e8264a8bc583bf",
+      "paths": [
+        "Product/Eraser/00003.jpg",
+        "Product/Eraser/00005.jpg",
+        "Product/Eraser/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "557c58cd2a0672ec9c69b6356dadc444b6fd5d158739bd00c676bc24b2f41a8a",
+      "paths": [
+        "Product/Exit_Sign/00007.jpg",
+        "Product/Exit_Sign/00045.jpg"
+      ]
+    },
+    {
+      "sha256": "52c3f2481275643ffe07f70d96c819d56ddd5f623d088cc8202ef82acfed5f82",
+      "paths": [
+        "Product/Fan/00052.jpg",
+        "Product/Fan/00053.jpg"
+      ]
+    },
+    {
+      "sha256": "25fb2359937951d063d15d327962d8babf030b99ceb85c45b5388262beaf8447",
+      "paths": [
+        "Product/File_Cabinet/00024.jpg",
+        "Product/Folder/00088.jpg"
+      ]
+    },
+    {
+      "sha256": "f3ba1d35e7ccd1275c86099c6028b0fc6db5d2df1201e6724707fa559ce1f571",
+      "paths": [
+        "Product/File_Cabinet/00031.jpg",
+        "Product/Folder/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "f4cc5ab33388d4a3d4aabf9cb18495af625ad72fe0b6845f7d02c1cdf11dbcad",
+      "paths": [
+        "Product/File_Cabinet/00032.jpg",
+        "Product/Folder/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "3a2212c2ae22101ca3dd73ff18e866bdd01e2ffb13442f66cc898b6cf5bce592",
+      "paths": [
+        "Product/File_Cabinet/00033.jpg",
+        "Product/Folder/00084.jpg"
+      ]
+    },
+    {
+      "sha256": "e6304cf452a786e95037ec10f06e08b5f678c036e3ae8b75de0363c3b008a3c6",
+      "paths": [
+        "Product/File_Cabinet/00034.jpg",
+        "Product/Folder/00085.jpg"
+      ]
+    },
+    {
+      "sha256": "f9d962b77c393741898350f5047afccad21665f3ac60e7d4bf4b3189c70c0676",
+      "paths": [
+        "Product/File_Cabinet/00050.jpg",
+        "Product/File_Cabinet/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "3917699ebfdfd79aeabd9e8e67f01ddc0062c20feb35f071302ec0910c5cb37e",
+      "paths": [
+        "Product/File_Cabinet/00057.jpg",
+        "Product/File_Cabinet/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "ddad6b09ff326853483f30dcf791ec3530ed8096de4728f2e859159aaac3e9e6",
+      "paths": [
+        "Product/Flipflops/00011.jpg",
+        "Product/Flipflops/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "ba7cca89c31cf9bfb52a1f85a08b979ddbdf29cc3834ae0795254e2594457745",
+      "paths": [
+        "Product/Flipflops/00026.jpg",
+        "Product/Flipflops/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "9724d547fa66945951c6169d771e8de7013cb36192d5a7f3de2c9034e3ab5583",
+      "paths": [
+        "Product/Flipflops/00058.jpg",
+        "Product/Flipflops/00059.jpg"
+      ]
+    },
+    {
+      "sha256": "185652b176642b85e1ddcb68605006cc6ce4878371bf6b7df0c19f4d6c446896",
+      "paths": [
+        "Product/Flipflops/00073.jpg",
+        "Product/Flipflops/00081.jpg"
+      ]
+    },
+    {
+      "sha256": "01ba68d7d2c321c4d4df7d156f1fd92f7541f70ec21c6406947c6658526ca9fe",
+      "paths": [
+        "Product/Flowers/00005.jpg",
+        "Product/Flowers/00077.jpg"
+      ]
+    },
+    {
+      "sha256": "644451c4ba3ebe0db9d3a6b62152d9b520d1aebb64576dc0268157978c90a49a",
+      "paths": [
+        "Product/Flowers/00032.jpg",
+        "Product/Flowers/00090.jpg"
+      ]
+    },
+    {
+      "sha256": "63337e8bc3cdc0ef33f3ed97eb6f5b2b77e519e9fa67278ef3e464fba3597235",
+      "paths": [
+        "Product/Flowers/00033.jpg",
+        "Product/Flowers/00081.jpg"
+      ]
+    },
+    {
+      "sha256": "6f90fe9c4d9cd4d7ba0363af4242e1d3119d49fcd2df487152e29a8c25dfb41c",
+      "paths": [
+        "Product/Glasses/00047.jpg",
+        "Product/Glasses/00050.jpg"
+      ]
+    },
+    {
+      "sha256": "6b4d590be2f4ca9e4ea560de3001141990f63fa63a2a0935d3fecd713f1818fa",
+      "paths": [
+        "Product/Glasses/00051.jpg",
+        "Product/Glasses/00052.jpg"
+      ]
+    },
+    {
+      "sha256": "c0f58741e5471dd603bd327f0d64b986275dc8f5f95c62c8b5eaee9121042749",
+      "paths": [
+        "Product/Hammer/00027.jpg",
+        "Product/Hammer/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "1c874f1552850c77797faad87df74755cdf7d02ec6809fa16bc7fd6c591ee067",
+      "paths": [
+        "Product/Hammer/00028.jpg",
+        "Product/Hammer/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "0ec3194a585fc816a9671b78b123a761c58af27055c26b8715a6e5b69cc3514b",
+      "paths": [
+        "Product/Hammer/00029.jpg",
+        "Product/Hammer/00041.jpg"
+      ]
+    },
+    {
+      "sha256": "aa21474218a8da9870d5e8a3f13fdb17d6db6a0133657e76d64d9dbb7623dba6",
+      "paths": [
+        "Product/Hammer/00030.jpg",
+        "Product/Hammer/00042.jpg"
+      ]
+    },
+    {
+      "sha256": "8d0f29ff530c53ae657360eb44b0aac98b32c9e0c00622938d843b64e0adca63",
+      "paths": [
+        "Product/Helmet/00027.jpg",
+        "Product/Helmet/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "98b292c79b852f4ba1bfe56fa4169f50f8ea610cbfdb89fe1cab3a9010811dd2",
+      "paths": [
+        "Product/Helmet/00035.jpg",
+        "Product/Helmet/00039.jpg"
+      ]
+    },
+    {
+      "sha256": "be01fce80d6e3b41211a8c46a32dfbc11e1573148c640dac318579d49170cbc7",
+      "paths": [
+        "Product/Helmet/00045.jpg",
+        "Product/Helmet/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "93e9e353924929754ed0751de81a97ba71ec6aae5e52817d21094b2bc2435b7d",
+      "paths": [
+        "Product/Helmet/00047.jpg",
+        "Product/Helmet/00048.jpg"
+      ]
+    },
+    {
+      "sha256": "18806cbad8c38c88c203c949a11fabea1f4e67adef012fcb7cddc388d42e1e5d",
+      "paths": [
+        "Product/Helmet/00054.jpg",
+        "Product/Helmet/00055.jpg"
+      ]
+    },
+    {
+      "sha256": "269e9284ea8a9f08cf7715b3af6011d4b18196f5eb1dabfea356dd91ac1d6cac",
+      "paths": [
+        "Product/Helmet/00056.jpg",
+        "Product/Helmet/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "164977155780af6351c433f37c19ac7de6fc67af111f913afd971f636b5ca9a0",
+      "paths": [
+        "Product/Helmet/00064.jpg",
+        "Product/Helmet/00065.jpg"
+      ]
+    },
+    {
+      "sha256": "28651d7a683ab9ca9fbf833d31d5b909c1027816097db3be439783e23926e90d",
+      "paths": [
+        "Product/Helmet/00069.jpg",
+        "Product/Helmet/00071.jpg"
+      ]
+    },
+    {
+      "sha256": "739a0171d94054070d07efc0c744a6b5f7dd666d6b6e0072c06c94d4b68d59b5",
+      "paths": [
+        "Product/Helmet/00072.jpg",
+        "Product/Helmet/00073.jpg"
+      ]
+    },
+    {
+      "sha256": "c479ec189512f8261d6a884746b444916b8980f79a79e1375cf742cca3fcf050",
+      "paths": [
+        "Product/Helmet/00076.jpg",
+        "Product/Helmet/00077.jpg"
+      ]
+    },
+    {
+      "sha256": "37b8ee00b40022b4c9ac57118917ef87c55d35d411c567c2236e6efc6cc199c5",
+      "paths": [
+        "Product/Helmet/00084.jpg",
+        "Product/Helmet/00086.jpg"
+      ]
+    },
+    {
+      "sha256": "867f1ab4dc6bdcc91232a73213962244646418787b3f4eb5a855a4676be8fdd6",
+      "paths": [
+        "Product/Knives/00015.jpg",
+        "Product/Knives/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "65ea112562b27cb51ac8b02dccfb6b5254ca384c231c512854c2fe35b49b068f",
+      "paths": [
+        "Product/Knives/00033.jpg",
+        "Product/Knives/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "3aa122ddd928d07f873fe3da5190faa8bae7143f745efe2482983e501b82b06d",
+      "paths": [
+        "Product/Laptop/00004.jpg",
+        "Product/Laptop/00069.jpg"
+      ]
+    },
+    {
+      "sha256": "67544cd3ec61965c8b44b2a317a8a8bab31894f68c7f6e0b73797b189ba39249",
+      "paths": [
+        "Product/Laptop/00005.jpg",
+        "Product/Laptop/00070.jpg"
+      ]
+    },
+    {
+      "sha256": "05de73474eac267a34378f7bf1a8d81791cf96bccb0db07fa7aee5b44fd6d6a5",
+      "paths": [
+        "Product/Laptop/00006.jpg",
+        "Product/Laptop/00071.jpg"
+      ]
+    },
+    {
+      "sha256": "4dd3ba727c694e1e23a2f1494a8c5a125f12a1b4fbc344d033ac01bfbc657ad1",
+      "paths": [
+        "Product/Laptop/00007.jpg",
+        "Product/Laptop/00072.jpg"
+      ]
+    },
+    {
+      "sha256": "8c6a7e462a67b376b7f7decba7115c50ed8d2e53f173e15e238ac94dcd8dd1b2",
+      "paths": [
+        "Product/Laptop/00008.jpg",
+        "Product/Laptop/00074.jpg"
+      ]
+    },
+    {
+      "sha256": "ea3560845d1918df9bef5754ec2d195713a737ae71a80902e7eb6438095200f1",
+      "paths": [
+        "Product/Laptop/00035.jpg",
+        "Product/Laptop/00081.jpg"
+      ]
+    },
+    {
+      "sha256": "bee1d74e5ecd9d6e8ef79ca5b84cf983f3d0c52eecb7b9346b6e9bfd2bc7c633",
+      "paths": [
+        "Product/Laptop/00036.jpg",
+        "Product/Laptop/00082.jpg"
+      ]
+    },
+    {
+      "sha256": "9d5794e74a1e24f2dbf32ab1493e13e98ad77d42aa47f0d9bdfda3c1a6a17b0b",
+      "paths": [
+        "Product/Laptop/00037.jpg",
+        "Product/Laptop/00083.jpg"
+      ]
+    },
+    {
+      "sha256": "20db8cc146eb0d9706501d5577f638d718d21c0f6489802d01649db0601003a1",
+      "paths": [
+        "Product/Laptop/00038.jpg",
+        "Product/Laptop/00084.jpg"
+      ]
+    },
+    {
+      "sha256": "2fa0eb26c8535347a4a66bbbcd9ebc196c7967383fcecd601cf9a406af5297a7",
+      "paths": [
+        "Product/Laptop/00039.jpg",
+        "Product/Laptop/00085.jpg"
+      ]
+    },
+    {
+      "sha256": "d03164d1bd4f6e7405c81bd651ffba6a92b74fcdd5a491cdf3ffeafbab23cdcc",
+      "paths": [
+        "Product/Laptop/00052.jpg",
+        "Product/Laptop/00054.jpg"
+      ]
+    },
+    {
+      "sha256": "215527462915df3b5e1388adeb6211db3bb08529118ef741541876f570a6e555",
+      "paths": [
+        "Product/Laptop/00076.jpg",
+        "Product/Laptop/00080.jpg"
+      ]
+    },
+    {
+      "sha256": "a932d2d9b73668d373f667513a4f967cce65b41e81f33974136bb38add4c26d8",
+      "paths": [
+        "Product/Monitor/00062.jpg",
+        "Product/Monitor/00097.jpg"
+      ]
+    },
+    {
+      "sha256": "c9d963c85f6f4a87af88138d7692477cd95fc68baf2c67d876e434ab3e4145aa",
+      "paths": [
+        "Product/Mop/00015.jpg",
+        "Product/Mop/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "134df67badcc422de004ab0fcd8e21556c632ebd86c3bc307f33654307ec01d4",
+      "paths": [
+        "Product/Mug/00018.jpg",
+        "Product/Mug/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "d44601b2d81a62abc2daa0fbfbe4ef58d6994b74a79f41d34a2829a8ee2773ad",
+      "paths": [
+        "Product/Notebook/00064.jpg",
+        "Product/Notebook/00065.jpg"
+      ]
+    },
+    {
+      "sha256": "058fab78c5408e4a4b011b1d9b77d01570c8cb57422829fcf75bb2123df1f6d8",
+      "paths": [
+        "Product/Pan/00051.jpg",
+        "Product/Pan/00055.jpg"
+      ]
+    },
+    {
+      "sha256": "dffc7246d7baef991dce1a354b67a5b0b13298ea0083233d637335fb2c93d16a",
+      "paths": [
+        "Product/Postit_Notes/00011.jpg",
+        "Product/Postit_Notes/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "5bc2eab859dea43b5289c671149841d817e62f699ec10a499018fbadd80a8070",
+      "paths": [
+        "Product/Printer/00063.jpg",
+        "Product/Printer/00065.jpg",
+        "Product/Printer/00072.jpg"
+      ]
+    },
+    {
+      "sha256": "ab2196150c0794ae645e24e1f3c262e043b910385f459d9d89a0d34ebe207039",
+      "paths": [
+        "Product/Printer/00064.jpg",
+        "Product/Printer/00066.jpg",
+        "Product/Printer/00073.jpg"
+      ]
+    },
+    {
+      "sha256": "7add6619e5505570f757291400a730687779794cfe016f3e04f709b76954356f",
+      "paths": [
+        "Product/Printer/00067.jpg",
+        "Product/Printer/00070.jpg",
+        "Product/Printer/00074.jpg"
+      ]
+    },
+    {
+      "sha256": "7ad24a8f43a30bed82b1e80205431e860f854c9b9f1227719b47d942e1b01952",
+      "paths": [
+        "Product/Printer/00068.jpg",
+        "Product/Printer/00071.jpg",
+        "Product/Printer/00075.jpg"
+      ]
+    },
+    {
+      "sha256": "d097183e6939fa1b12a8d13266f3a977dda6ca2d7045de0d6160dd911a7d0b24",
+      "paths": [
+        "Product/Radio/00007.jpg",
+        "Product/Radio/00011.jpg"
+      ]
+    },
+    {
+      "sha256": "1dc8166f7fe7e8b60cb052ce0aa36e65fcd21e1c079d026ac42d5a658f8dcf2c",
+      "paths": [
+        "Product/Radio/00008.jpg",
+        "Product/Radio/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "ebbbfa1bbde1c3fdcea183f68940eac100df17428fad83c9f405a72d1608fe1e",
+      "paths": [
+        "Product/Radio/00016.jpg",
+        "Product/Radio/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "e1a7349854f09828501fe61455f7593ee3bc978081e91f25a4c5769ad92e29ca",
+      "paths": [
+        "Product/Refrigerator/00049.jpg",
+        "Product/Refrigerator/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "a5610229a6b492ed2fc1f1d69f21ed9f450200a8c043b12a65cd1331500b936b",
+      "paths": [
+        "Product/Ruler/00013.jpg",
+        "Product/Ruler/00047.jpg"
+      ]
+    },
+    {
+      "sha256": "181741227dbfd7df25e61a8a631a458cdd3d8b95f5b92816dca4f689642ed5c6",
+      "paths": [
+        "Product/Scissors/00010.jpg",
+        "Product/Scissors/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "4ca0210ccb02ffc72a2cfd91444f13c28c06df218c9fc373c7ca3bdb18d29def",
+      "paths": [
+        "Product/Scissors/00013.jpg",
+        "Product/Scissors/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "06e433249c316dc5da6fe5150e8adbe982905a7da4ca99eb5f9977160dd8df93",
+      "paths": [
+        "Product/Shelf/00026.jpg",
+        "Product/Shelf/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "3f6464170d362058bfdc5b1db649751cecca66bed5e15bb98fb391291fd10aef",
+      "paths": [
+        "Product/Sink/00005.jpg",
+        "Product/Sink/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "4716bfdef5f86514d8f02ef02c434e29eeab372fb8f8ab7547ec8bcf473841c8",
+      "paths": [
+        "Product/Sink/00043.jpg",
+        "Product/Sink/00045.jpg"
+      ]
+    },
+    {
+      "sha256": "20366399cdf05302f33d24d2bc2c7e3ec4cd5d6a7c272095bb4c35f6a9a58777",
+      "paths": [
+        "Product/Sneakers/00010.jpg",
+        "Product/Sneakers/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "0a704d2193078cf70b2de56c57dd2a3efa4fe89edb0f65946024e3fb9b6b507c",
+      "paths": [
+        "Product/Sneakers/00021.jpg",
+        "Product/Sneakers/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "b924fb055ed6a548aa277b8a1b2dfd8338ef86a7c0faa272307a70b5cec570fe",
+      "paths": [
+        "Product/Sneakers/00032.jpg",
+        "Product/Sneakers/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "2cecece238fc75aae86dd9293066c4d1da2c7261e95b0a472107eae5036abe34",
+      "paths": [
+        "Product/Sneakers/00041.jpg",
+        "Product/Sneakers/00048.jpg"
+      ]
+    },
+    {
+      "sha256": "6d87d2dbb0f57c464a434fbdf4a9ef529baee3d4497b94928b292f5a7f32143e",
+      "paths": [
+        "Product/Sneakers/00049.jpg",
+        "Product/Sneakers/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "60e1c11fc41d843414e18936eac9dc469fd4dd4302785b407ae1128536154133",
+      "paths": [
+        "Product/Sneakers/00069.jpg",
+        "Product/Sneakers/00074.jpg"
+      ]
+    },
+    {
+      "sha256": "b5e88089a6814f522024ce5c35e5fe55dcefd035050127f5a85b662d56e1deb3",
+      "paths": [
+        "Product/Sneakers/00077.jpg",
+        "Product/Sneakers/00081.jpg"
+      ]
+    },
+    {
+      "sha256": "fbeed0e89c6a2bf643b635bed382b6a0ef4456f62dd8fee32ca39ffd01becc3b",
+      "paths": [
+        "Product/Sneakers/00088.jpg",
+        "Product/Sneakers/00092.jpg"
+      ]
+    },
+    {
+      "sha256": "7dbf98e426912f9b364f89ce17bc0d8ebb28e0a5d6dc9ac7bbb24bd45c56bb37",
+      "paths": [
+        "Product/Soda/00017.jpg",
+        "Product/Soda/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "8b4fb6bffba0e173a003de742f8ff5a442053761b7880f1539d38560c154c709",
+      "paths": [
+        "Product/Soda/00028.jpg",
+        "Product/Soda/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "c8d91a8ecc9a87e4bd9b2fb393ab7f6f86b228720c280806eda8091bbb01ba1d",
+      "paths": [
+        "Product/Soda/00031.jpg",
+        "Product/Soda/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "2fa01dbdff763b23c12cbcf0c32818401cfca7a5d0e2503a9117e9f353c7b184",
+      "paths": [
+        "Product/Spoon/00017.jpg",
+        "Product/Spoon/00030.jpg"
+      ]
+    },
+    {
+      "sha256": "0d363499b8dc376eb5f2e6958f0043184ed26fe0433a45815cbde474f5facb82",
+      "paths": [
+        "Product/Spoon/00028.jpg",
+        "Product/Spoon/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "bf77de45afee3d88d97d59e4ab521e74a8cf0e16616ebc56bb5357268943b29b",
+      "paths": [
+        "Product/Spoon/00029.jpg",
+        "Product/Spoon/00032.jpg"
+      ]
+    },
+    {
+      "sha256": "3a1f22d0ce81d224545f83a27e770af630192520fde91eac27ccc0bc2607bff8",
+      "paths": [
+        "Product/Table/00014.jpg",
+        "Product/Table/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "3ff21d6d7699ee089024e56f704eb70a8943a3f02210a9a4085b3fbabc3bcde5",
+      "paths": [
+        "Product/Table/00016.jpg",
+        "Product/Table/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "302aa7079e8aea12eade7b8cb542133271771e4821accbe66a0991881984179c",
+      "paths": [
+        "Product/Table/00046.jpg",
+        "Product/Table/00049.jpg"
+      ]
+    },
+    {
+      "sha256": "7fdc9c4e448057744c59eb6c8e76a96d4045426f39e588c2045ba33bf767e2f8",
+      "paths": [
+        "Product/Table/00057.jpg",
+        "Product/Table/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "ea4ff48726f4903b7d6954bb345716d6b7f44bc20fc9a4cf169ec21c9ccf55a8",
+      "paths": [
+        "Product/Telephone/00020.jpg",
+        "Product/Telephone/00021.jpg"
+      ]
+    },
+    {
+      "sha256": "f0a0f10bb7a472bf9485117ce3e93654272771c79febad6d6e9e9e1a18cc2368",
+      "paths": [
+        "Product/ToothBrush/00023.jpg",
+        "Product/ToothBrush/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "d0aa93e2aa2ab093de122f39a311031b7eec0805d20fc9a54c3f371d372c8076",
+      "paths": [
+        "Product/Toys/00024.jpg",
+        "Product/Toys/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "5edcc9832e440efa7508e0af90c5042b5b7f3ceb61cc8283fe703341cb231baa",
+      "paths": [
+        "Product/Trash_Can/00008.jpg",
+        "Product/Trash_Can/00088.jpg"
+      ]
+    },
+    {
+      "sha256": "8a9caf5c1b4fd833ba79c0a8cfc7dc55e6f011a02f25527fe553a1199135c5d0",
+      "paths": [
+        "Product/Trash_Can/00084.jpg",
+        "Product/Trash_Can/00086.jpg"
+      ]
+    },
+    {
+      "sha256": "dee31ce1a0c85c97920807b877c64ef61ff8c453dd87b243b4c93a032e102cf5",
+      "paths": [
+        "Product/TV/00008.jpg",
+        "Product/TV/00061.jpg"
+      ]
+    },
+    {
+      "sha256": "26fe74a0a50e6b5a1a4d61f215ad95906ed5351b81b22c5b8875d0365d467448",
+      "paths": [
+        "Product/TV/00010.jpg",
+        "Product/TV/00062.jpg"
+      ]
+    },
+    {
+      "sha256": "23913851851ca9edf58259ac414f52a1f3644396e6fe296a8731be13e06f7768",
+      "paths": [
+        "Product/TV/00041.jpg",
+        "Product/TV/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "3567f6dd3e9501de988ed749c99288f7d534443b79d06d2a1f7ac6971f5d66b0",
+      "paths": [
+        "Product/Webcam/00009.jpg",
+        "Product/Webcam/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "9eb7ecbdd89e1799481a385960c432fc2dcfaa92f4ab2b89cdd60aae104224ef",
+      "paths": [
+        "Product/Webcam/00010.jpg",
+        "Product/Webcam/00038.jpg"
+      ]
+    },
+    {
+      "sha256": "5b6a8416ff1bd684849ad2bf50c9e1b43e75046075f8aa638ef728d5cdff1f4a",
+      "paths": [
+        "Product/Webcam/00016.jpg",
+        "Product/Webcam/00065.jpg"
+      ]
+    },
+    {
+      "sha256": "57834d6b3a75049d530d82004ca5b2dff1262a7b37776386a794949266a96c79",
+      "paths": [
+        "Product/Webcam/00018.jpg",
+        "Product/Webcam/00066.jpg"
+      ]
+    },
+    {
+      "sha256": "9018595cd94d53f239c0a609923b176af04e81487626398d1d5b2fc7b1b5b038",
+      "paths": [
+        "Real World/Alarm_Clock/00055.jpg",
+        "Real World/Radio/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "8b23b026c978e4736dd8f8c9c79a4ed14defe38391a395165e902c04d6b0ab04",
+      "paths": [
+        "Real World/Alarm_Clock/00058.jpg",
+        "Real World/Radio/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "8d54f6732a1ca565229296163ba0dec2edd4e7b3912417c7512eddb4b7be4308",
+      "paths": [
+        "Real World/Alarm_Clock/00068.jpg",
+        "Real World/Radio/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "90aa72cca9efafca2f4c110d0d8b394913c7a64a0f5a2d78eb57b7207aa9a1ce",
+      "paths": [
+        "Real World/Bucket/00056.jpg",
+        "Real World/Mop/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "6ed713fb8153c9515658d3691eb248af0d4e978001998c84950d7707624b576e",
+      "paths": [
+        "Real World/Chair/00028.jpg",
+        "Real World/Couch/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "1fbf158ec14c584d62c3ee8bfe185fc7086ee982933832dd9cba7175bb8ec402",
+      "paths": [
+        "Real World/Computer/00008.jpg",
+        "Real World/Monitor/00068.jpg"
+      ]
+    },
+    {
+      "sha256": "02f5b31a24d7dc72fadd9f3748ad447847f8efa394b31ff0ea649dd0e139ad31",
+      "paths": [
+        "Real World/Computer/00017.jpg",
+        "Real World/Laptop/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "ee9be981d7d37930bca8cf449c18c0bc0715188c27ad5bbee7c90c6246a5d501",
+      "paths": [
+        "Real World/Computer/00021.jpg",
+        "Real World/Laptop/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "6ea38971710a12e915bb2a10aa5b724222e657739f583ccc2f93852f31392e9e",
+      "paths": [
+        "Real World/Computer/00027.jpg",
+        "Real World/Laptop/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "015651ca28f336134c64a500f38312a48096990f0d10ba22b36284bc6470e6d1",
+      "paths": [
+        "Real World/Computer/00031.jpg",
+        "Real World/Keyboard/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "f57b0859287e214e11ee705b1f8726e6366d3dc31506ab26d104353c19ed702f",
+      "paths": [
+        "Real World/Computer/00063.jpg",
+        "Real World/Monitor/00025.jpg"
+      ]
+    },
+    {
+      "sha256": "2428922c776281daccd401245b21811b251aa25067b833561f980ba973c825ce",
+      "paths": [
+        "Real World/Eraser/00021.jpg",
+        "Real World/Pencil/00014.jpg"
+      ]
+    },
+    {
+      "sha256": "2f8a1e454b6df525cff65893e562338410a5471c42896f5a5d180942be8bd7d8",
+      "paths": [
+        "Real World/Eraser/00023.jpg",
+        "Real World/Pencil/00056.jpg"
+      ]
+    },
+    {
+      "sha256": "1cc5111d6e94e73504b0414b49540c27aef89254535b830166ff57d3fe301160",
+      "paths": [
+        "Real World/Eraser/00024.jpg",
+        "Real World/Pencil/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "4eb183b4bf45dbc3da4983c649f3bb07d1ee28470b76ceb62a96b91cf9c0c762",
+      "paths": [
+        "Real World/Marker/00010.jpg",
+        "Real World/Pen/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "6f6144bd846b63dad160668181187b5f72289c53531c52434ccacf4e5c3326e3",
+      "paths": [
+        "Real World/Paper_Clip/00023.jpg",
+        "Real World/Paper_Clip/00027.jpg"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "sha256": "7262e5b31467436057fbc85e05f40175079785696b8931ff29d7e8fe3aa01ffd",
+      "paths": [
+        "Art/Computer/00002.jpg",
+        "Art/Computer/00011.jpg",
+        "Art/Monitor/00011.jpg"
+      ]
+    },
+    {
+      "sha256": "3007cd7e92c38648e65c52229378817b1c244b986b4cca304f18e7361ebd6374",
+      "paths": [
+        "Art/Computer/00004.jpg",
+        "Art/Monitor/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "44ce25c64f0b82fe0258c71f9b32ea31926814b1c881655d83ff7146f2a6441b",
+      "paths": [
+        "Art/Computer/00013.jpg",
+        "Art/Monitor/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "4858ee60cb6058bb8c8c424b2cf541672d11b84dc731b1efc609faca361c314c",
+      "paths": [
+        "Art/Desk_Lamp/00008.jpg",
+        "Art/Lamp_Shade/00043.jpg"
+      ]
+    },
+    {
+      "sha256": "486a3f90d4ba2deb8523de90ba980f9da618943cccbe24cb55a7c237c87d9af5",
+      "paths": [
+        "Art/Eraser/00009.jpg",
+        "Art/Pencil/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "c86cf73634649b0dd3bbc2102e806f7b9be4146859b01f39e56fb6794385bba6",
+      "paths": [
+        "Art/Fork/00002.jpg",
+        "Art/Spoon/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "95ff0129f009f235e79a5b77fea57589e83be75c9878c530d33d47a1bb8dd169",
+      "paths": [
+        "Art/Keyboard/00010.jpg",
+        "Art/Laptop/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "1bfe3149b89aadfba4596dfbd41017a4d1acb18bfda5232dca9ccc9f0017d1e1",
+      "paths": [
+        "Art/Monitor/00040.jpg",
+        "Art/TV/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "10e5dce6190edc8864fb8cd842763afa4c47d0ee675c0ec8f36902382fa75ce1",
+      "paths": [
+        "Art/Paper_Clip/00016.jpg",
+        "Art/Postit_Notes/00013.jpg"
+      ]
+    },
+    {
+      "sha256": "933422ca527582c134be3dacdb310c6c0ecd32aa7b9cf82fc7b0aad8f6495c8e",
+      "paths": [
+        "Clipart/Alarm_Clock/00002.jpg",
+        "Clipart/Alarm_Clock/00021.jpg",
+        "Clipart/Shelf/00002.jpg"
+      ]
+    },
+    {
+      "sha256": "cbc1ab0d31f78de0ca0bd56b3611db2091a416e033c38c622ccb85f3bcf6fbd7",
+      "paths": [
+        "Clipart/Alarm_Clock/00029.jpg",
+        "Clipart/Bed/00073.jpg"
+      ]
+    },
+    {
+      "sha256": "a449609d0a699f1d715b0c1a39c88018c5824dcdd38b7461f53088476c45f307",
+      "paths": [
+        "Clipart/Bed/00006.jpg",
+        "Clipart/Couch/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "929e8d1fa38dd1f034fd9d3964a0fd89e9d73d87db498b9388849e514d240301",
+      "paths": [
+        "Clipart/Bottle/00018.jpg",
+        "Clipart/Soda/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "ee1cc0e860198cd8d3ab6fce636aa266bfbe6f71a0de36e32664c46a0cd5665a",
+      "paths": [
+        "Clipart/Bottle/00028.jpg",
+        "Clipart/Soda/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "4616fe3f334acc9a9361cd151500b93bae3ceef071e3ca1e461c98f68df6f069",
+      "paths": [
+        "Clipart/Bottle/00088.jpg",
+        "Clipart/Soda/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "5615951538914a8ccfaac07f328ce7c3ead4f601487b4f85aed2eaa21b06abf0",
+      "paths": [
+        "Clipart/Bucket/00006.jpg",
+        "Clipart/Mop/00003.jpg"
+      ]
+    },
+    {
+      "sha256": "2c34bd827e63e12dd3124a72a32a8122ce6f0fe5d6938ebd78fb17f6d6d8de40",
+      "paths": [
+        "Clipart/Bucket/00007.jpg",
+        "Clipart/Mop/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "995262ae6616064661663ea8fdb8f1b12dcc909db7bdafe20f3cd59e9c46e947",
+      "paths": [
+        "Clipart/Bucket/00068.jpg",
+        "Clipart/Mop/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "2c8e86301e2a5507a5e990d355df6cdf5f15f3d5d231e68c7d214db07c6fe42d",
+      "paths": [
+        "Clipart/Bucket/00069.jpg",
+        "Clipart/Mop/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "9d17917a7e7f69fac7294c409beee94a1da235dcd6cc039922cc1bab9aef9517",
+      "paths": [
+        "Clipart/Bucket/00070.jpg",
+        "Clipart/Mop/00020.jpg"
+      ]
+    },
+    {
+      "sha256": "311a43d07758509e733dd28d17bb68725eeb96b4e8efad935b4e132079385c0f",
+      "paths": [
+        "Clipart/Chair/00017.jpg",
+        "Clipart/Couch/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "6a4d70f4e2aabee037b3ffd227aca633b854efb76547904d4f25b34fb23c2aec",
+      "paths": [
+        "Clipart/Chair/00020.jpg",
+        "Clipart/Couch/00009.jpg"
+      ]
+    },
+    {
+      "sha256": "6cfc24eba52d93ee596144d068fc4f25ca7d98f9c40f639166e48edbd25093e7",
+      "paths": [
+        "Clipart/Computer/00002.jpg",
+        "Clipart/Laptop/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "8f10eceaea3457e3bd6ca9a932509fadfc7086e6c3ecbc39eb056f5c3836c124",
+      "paths": [
+        "Clipart/Computer/00004.jpg",
+        "Clipart/Keyboard/00001.jpg",
+        "Clipart/Monitor/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "a4ec8887a93c406c7ce96b30aa6e26afe46b64aec651889ac78ecb7a8bb04afb",
+      "paths": [
+        "Clipart/Computer/00008.jpg",
+        "Clipart/Laptop/00002.jpg"
+      ]
+    },
+    {
+      "sha256": "2bc7254241e0a4720be7bb1a928a567999cbed8b04ec44e47bca28680741bf8d",
+      "paths": [
+        "Clipart/Computer/00009.jpg",
+        "Clipart/Monitor/00006.jpg"
+      ]
+    },
+    {
+      "sha256": "a36e7d0b1d988a1cda48906de3290d36b8bebb2fcd8f52da3ad63ee2de1b6cee",
+      "paths": [
+        "Clipart/Computer/00010.jpg",
+        "Clipart/Keyboard/00003.jpg"
+      ]
+    },
+    {
+      "sha256": "4190c8c6fcf9126e95de5054f0a9bc84803cd6e1cfcf9683ad7b3d9463da5ba6",
+      "paths": [
+        "Clipart/Computer/00011.jpg",
+        "Clipart/Keyboard/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "2a80e4321faef300968ec9143438f621125561236246551447b071a182abfe93",
+      "paths": [
+        "Clipart/Desk_Lamp/00008.jpg",
+        "Clipart/Lamp_Shade/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "338e5f50e49ed6c175fb66b4c9b5f26475e4287b74b53e8bacea9af66dd21e18",
+      "paths": [
+        "Clipart/Desk_Lamp/00018.jpg",
+        "Clipart/Lamp_Shade/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "6774d1689c55eda95a9b5e801427e78a802b6cc5dc33a14b48fd395dc2fb241f",
+      "paths": [
+        "Clipart/Desk_Lamp/00021.jpg",
+        "Clipart/Lamp_Shade/00018.jpg"
+      ]
+    },
+    {
+      "sha256": "1d88840de1a8f433e426aa4ae325439a5d480a1372dd6c5a3813554c1b999567",
+      "paths": [
+        "Clipart/Desk_Lamp/00023.jpg",
+        "Clipart/Lamp_Shade/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "3b2460adab4495d172487346d61167abacdc2de28bbb817cb3ff995282d93d48",
+      "paths": [
+        "Clipart/Desk_Lamp/00024.jpg",
+        "Clipart/Lamp_Shade/00026.jpg"
+      ]
+    },
+    {
+      "sha256": "bb5aae8dd4d9d3a3c0d6d0bf42a8a4bfd937668baf615fc3fdae6dcbcf7e8af3",
+      "paths": [
+        "Clipart/Desk_Lamp/00026.jpg",
+        "Clipart/Lamp_Shade/00027.jpg"
+      ]
+    },
+    {
+      "sha256": "af23f92a256a429e79f37f9a175447d4eb3d0d878d847ff63b9d59b3e4d0470e",
+      "paths": [
+        "Clipart/Desk_Lamp/00027.jpg",
+        "Clipart/Lamp_Shade/00028.jpg"
+      ]
+    },
+    {
+      "sha256": "57031d29616ff6e943c40d08c59ad18e8d8a2f5683e943a5799dddfb856ffdde",
+      "paths": [
+        "Clipart/Desk_Lamp/00029.jpg",
+        "Clipart/Lamp_Shade/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "8dfa92f5e622ed4ea88acce91ddc0acc62ebfa2518e615fcdda232ecd36304cb",
+      "paths": [
+        "Clipart/Desk_Lamp/00039.jpg",
+        "Clipart/Lamp_Shade/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "4e750d7ed6cd173f08864ddfa5e9938f5a138f4557fe00a811faebb7b31e7371",
+      "paths": [
+        "Clipart/Folder/00010.jpg",
+        "Clipart/Notebook/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "5ddb04e22a6154a6229d357f6bfd8699f410c4ba2725e2293f7c3ead83014a9d",
+      "paths": [
+        "Clipart/Fork/00007.jpg",
+        "Clipart/Spoon/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "43c06e939a949461eeaa6c5aa25ac8c922d03e8367676dc7b39852adee4197c1",
+      "paths": [
+        "Clipart/Fork/00012.jpg",
+        "Clipart/Knives/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "cba5bd321c9cec737e3ef8ce3483f3f1545b086e4d4133d16c42a25c0366a039",
+      "paths": [
+        "Clipart/Fork/00044.jpg",
+        "Clipart/Spoon/00048.jpg"
+      ]
+    },
+    {
+      "sha256": "ee6f44fa6cf754fc40cf95a07cee4e95f443a5dfe962e358ceb1d45e4d49fdcd",
+      "paths": [
+        "Clipart/Glasses/00001.jpg",
+        "Clipart/Mug/00005.jpg"
+      ]
+    },
+    {
+      "sha256": "8b23fd2b1fed40ed10e1ed0c7307b29db5cf307c48c4d76fcc7a8751037093e9",
+      "paths": [
+        "Clipart/Keyboard/00007.jpg",
+        "Clipart/Monitor/00007.jpg"
+      ]
+    },
+    {
+      "sha256": "85beed838dfb0a4f420fcd1ce1a6b31f6d0eef318e0d789a7c835a2f23fdc478",
+      "paths": [
+        "Clipart/Keyboard/00008.jpg",
+        "Clipart/Monitor/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "d36534c8940e851ee904aec57095e17ad1a60b07c8f61365a7e0ef682eccb5cc",
+      "paths": [
+        "Clipart/Keyboard/00012.jpg",
+        "Clipart/Monitor/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "a9f16ab0c2e18750ab63d89c241ce09da9ebfac692be853be663078824ead267",
+      "paths": [
+        "Clipart/Keyboard/00044.jpg",
+        "Clipart/Monitor/00093.jpg"
+      ]
+    },
+    {
+      "sha256": "3ebb487d08347ee631096a21096cc1faee31acdc3045548bea34b9f4b1217b43",
+      "paths": [
+        "Clipart/Keyboard/00050.jpg",
+        "Clipart/Keyboard/00077.jpg",
+        "Clipart/Laptop/00057.jpg"
+      ]
+    },
+    {
+      "sha256": "2fe0c9e82a1665a3f0ab46d1460f4d62ee3f55e589c3d8078e7d989efb7c32fc",
+      "paths": [
+        "Clipart/Keyboard/00060.jpg",
+        "Clipart/Laptop/00058.jpg"
+      ]
+    },
+    {
+      "sha256": "fa3debdfddb25435d90600eae52bf0d872ce2907ab8177aeb6bc5cb3e1004135",
+      "paths": [
+        "Clipart/Keyboard/00062.jpg",
+        "Clipart/Laptop/00059.jpg"
+      ]
+    },
+    {
+      "sha256": "1df399a94647450566cc491ee4d96a3808b2c560e83c344a6eb1cf043f0f6fb6",
+      "paths": [
+        "Clipart/Keyboard/00096.jpg",
+        "Clipart/Mouse/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "1d38b5f363f9568aa55c52713e1e4e4fc33a7e8fbe420c7996529ac6f8f4f0e8",
+      "paths": [
+        "Clipart/Marker/00005.jpg",
+        "Clipart/Pen/00035.jpg"
+      ]
+    },
+    {
+      "sha256": "f43b04d252f4362c17339e5f3bd02a5c136f906088e094894423c3f06e04938a",
+      "paths": [
+        "Clipart/Monitor/00013.jpg",
+        "Clipart/TV/00004.jpg"
+      ]
+    },
+    {
+      "sha256": "1288f70eb7c25a98d50f7b89ff31b6c3e474bd4ab73509bdb05b2a4f8dd9863d",
+      "paths": [
+        "Clipart/Monitor/00016.jpg",
+        "Clipart/TV/00008.jpg"
+      ]
+    },
+    {
+      "sha256": "e9d83faf1e74797578c4b18cbb17696bd019f779a68fa548741fc558d0292a66",
+      "paths": [
+        "Clipart/Monitor/00028.jpg",
+        "Clipart/TV/00017.jpg"
+      ]
+    },
+    {
+      "sha256": "383de974f9f47a9e37967e5d88792f5056822d3ea06d894b9fc2e5e722820c98",
+      "paths": [
+        "Clipart/Monitor/00029.jpg",
+        "Clipart/TV/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "4115ceafd8c0426a1475102267d3582a8546d8e83ddc7f8674b3186d14bbdfce",
+      "paths": [
+        "Clipart/Monitor/00040.jpg",
+        "Clipart/TV/00022.jpg"
+      ]
+    },
+    {
+      "sha256": "3c258a4550ef379686b27aeb21143f31f90aa54410186148e488405ee546e932",
+      "paths": [
+        "Clipart/Monitor/00052.jpg",
+        "Clipart/TV/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "0d0f50da7afa364a8430d6888030fd1b2133b40a18529f2d8e3fe7fecc132202",
+      "paths": [
+        "Clipart/Monitor/00065.jpg",
+        "Clipart/TV/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "f35413d2cd3f3988801f42325b80d81121cb7277bdabbc51e26ae9cf898b82bd",
+      "paths": [
+        "Clipart/Monitor/00077.jpg",
+        "Clipart/TV/00046.jpg"
+      ]
+    },
+    {
+      "sha256": "0ab31365db53025e7f71208b7faf8ad2463808b15c6cb732f1d8a9f7bff2d66f",
+      "paths": [
+        "Clipart/Monitor/00080.jpg",
+        "Clipart/TV/00050.jpg"
+      ]
+    },
+    {
+      "sha256": "9230a1ef9aa0e399b1e2fc9bb28a843415ab721d1105216c69ccbe5164543fa6",
+      "paths": [
+        "Clipart/Monitor/00081.jpg",
+        "Clipart/TV/00051.jpg"
+      ]
+    },
+    {
+      "sha256": "b0e150cb66252977a6fe1d44d8baa9528071d14234e125d748beab851adf2065",
+      "paths": [
+        "Clipart/Monitor/00088.jpg",
+        "Clipart/TV/00063.jpg"
+      ]
+    },
+    {
+      "sha256": "0ddc6d90e75b61607cfaf95a387c8fc8236a1a6bc9452868a559c4a6a608ece2",
+      "paths": [
+        "Clipart/Pen/00040.jpg",
+        "Clipart/Pencil/00069.jpg"
+      ]
+    },
+    {
+      "sha256": "dedf511c570f8ebbab1662fb81f36dbb1d58ae91f67c61c23e0fdd7e0aa032d2",
+      "paths": [
+        "Clipart/Pencil/00013.jpg",
+        "Clipart/Postit_Notes/00001.jpg"
+      ]
+    },
+    {
+      "sha256": "b64d42b75eda15ff85e0b361f9c0d237ecc8918d9414a6bd66df448448571b77",
+      "paths": [
+        "Product/Calendar/00001.jpg",
+        "Product/Notebook/00015.jpg"
+      ]
+    },
+    {
+      "sha256": "0e60a90cc24f7f20f914dee2b15e06939d3453bb9adb6130e0859ffddb0d3178",
+      "paths": [
+        "Product/Computer/00019.jpg",
+        "Product/Laptop/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "ce3893075f64a08e26908b5cd21899e7360fa19c4d35ce988e72f4b449f74c4b",
+      "paths": [
+        "Product/Desk_Lamp/00054.jpg",
+        "Product/Lamp_Shade/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "25fb2359937951d063d15d327962d8babf030b99ceb85c45b5388262beaf8447",
+      "paths": [
+        "Product/File_Cabinet/00024.jpg",
+        "Product/Folder/00088.jpg"
+      ]
+    },
+    {
+      "sha256": "f3ba1d35e7ccd1275c86099c6028b0fc6db5d2df1201e6724707fa559ce1f571",
+      "paths": [
+        "Product/File_Cabinet/00031.jpg",
+        "Product/Folder/00036.jpg"
+      ]
+    },
+    {
+      "sha256": "f4cc5ab33388d4a3d4aabf9cb18495af625ad72fe0b6845f7d02c1cdf11dbcad",
+      "paths": [
+        "Product/File_Cabinet/00032.jpg",
+        "Product/Folder/00037.jpg"
+      ]
+    },
+    {
+      "sha256": "3a2212c2ae22101ca3dd73ff18e866bdd01e2ffb13442f66cc898b6cf5bce592",
+      "paths": [
+        "Product/File_Cabinet/00033.jpg",
+        "Product/Folder/00084.jpg"
+      ]
+    },
+    {
+      "sha256": "e6304cf452a786e95037ec10f06e08b5f678c036e3ae8b75de0363c3b008a3c6",
+      "paths": [
+        "Product/File_Cabinet/00034.jpg",
+        "Product/Folder/00085.jpg"
+      ]
+    },
+    {
+      "sha256": "9018595cd94d53f239c0a609923b176af04e81487626398d1d5b2fc7b1b5b038",
+      "paths": [
+        "Real World/Alarm_Clock/00055.jpg",
+        "Real World/Radio/00029.jpg"
+      ]
+    },
+    {
+      "sha256": "8b23b026c978e4736dd8f8c9c79a4ed14defe38391a395165e902c04d6b0ab04",
+      "paths": [
+        "Real World/Alarm_Clock/00058.jpg",
+        "Real World/Radio/00040.jpg"
+      ]
+    },
+    {
+      "sha256": "8d54f6732a1ca565229296163ba0dec2edd4e7b3912417c7512eddb4b7be4308",
+      "paths": [
+        "Real World/Alarm_Clock/00068.jpg",
+        "Real World/Radio/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "90aa72cca9efafca2f4c110d0d8b394913c7a64a0f5a2d78eb57b7207aa9a1ce",
+      "paths": [
+        "Real World/Bucket/00056.jpg",
+        "Real World/Mop/00023.jpg"
+      ]
+    },
+    {
+      "sha256": "6ed713fb8153c9515658d3691eb248af0d4e978001998c84950d7707624b576e",
+      "paths": [
+        "Real World/Chair/00028.jpg",
+        "Real World/Couch/00024.jpg"
+      ]
+    },
+    {
+      "sha256": "1fbf158ec14c584d62c3ee8bfe185fc7086ee982933832dd9cba7175bb8ec402",
+      "paths": [
+        "Real World/Computer/00008.jpg",
+        "Real World/Monitor/00068.jpg"
+      ]
+    },
+    {
+      "sha256": "02f5b31a24d7dc72fadd9f3748ad447847f8efa394b31ff0ea649dd0e139ad31",
+      "paths": [
+        "Real World/Computer/00017.jpg",
+        "Real World/Laptop/00010.jpg"
+      ]
+    },
+    {
+      "sha256": "ee9be981d7d37930bca8cf449c18c0bc0715188c27ad5bbee7c90c6246a5d501",
+      "paths": [
+        "Real World/Computer/00021.jpg",
+        "Real World/Laptop/00016.jpg"
+      ]
+    },
+    {
+      "sha256": "6ea38971710a12e915bb2a10aa5b724222e657739f583ccc2f93852f31392e9e",
+      "paths": [
+        "Real World/Computer/00027.jpg",
+        "Real World/Laptop/00019.jpg"
+      ]
+    },
+    {
+      "sha256": "015651ca28f336134c64a500f38312a48096990f0d10ba22b36284bc6470e6d1",
+      "paths": [
+        "Real World/Computer/00031.jpg",
+        "Real World/Keyboard/00034.jpg"
+      ]
+    },
+    {
+      "sha256": "f57b0859287e214e11ee705b1f8726e6366d3dc31506ab26d104353c19ed702f",
+      "paths": [
+        "Real World/Computer/00063.jpg",
+        "Real World/Monitor/00025.jpg"
+      ]
+    },
+    {
+      "sha256": "2428922c776281daccd401245b21811b251aa25067b833561f980ba973c825ce",
+      "paths": [
+        "Real World/Eraser/00021.jpg",
+        "Real World/Pencil/00014.jpg"
+      ]
+    },
+    {
+      "sha256": "2f8a1e454b6df525cff65893e562338410a5471c42896f5a5d180942be8bd7d8",
+      "paths": [
+        "Real World/Eraser/00023.jpg",
+        "Real World/Pencil/00056.jpg"
+      ]
+    },
+    {
+      "sha256": "1cc5111d6e94e73504b0414b49540c27aef89254535b830166ff57d3fe301160",
+      "paths": [
+        "Real World/Eraser/00024.jpg",
+        "Real World/Pencil/00031.jpg"
+      ]
+    },
+    {
+      "sha256": "4eb183b4bf45dbc3da4983c649f3bb07d1ee28470b76ceb62a96b91cf9c0c762",
+      "paths": [
+        "Real World/Marker/00010.jpg",
+        "Real World/Pen/00040.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "This detects byte-identical duplicates only; near-duplicates and re-encoded copies are not checked.",
+    "Original images were retained and no labels were changed.",
+    "Final split assignment must keep each identical-content group within one split; conflicting labels require a consistent treatment before freezing splits."
+  ]
+}

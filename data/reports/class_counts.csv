@@ -1,0 +1,261 @@
+domain,class_name,images,sampled
+Art,Alarm_Clock,74,10
+Art,Backpack,41,10
+Art,Batteries,27,10
+Art,Bed,40,10
+Art,Bike,75,10
+Art,Bottle,99,10
+Art,Bucket,40,10
+Art,Calculator,33,10
+Art,Calendar,20,10
+Art,Candles,76,10
+Art,Chair,69,10
+Art,Clipboards,25,10
+Art,Computer,44,10
+Art,Couch,40,10
+Art,Curtains,40,10
+Art,Desk_Lamp,23,10
+Art,Drill,15,10
+Art,Eraser,18,10
+Art,Exit_Sign,21,10
+Art,Fan,45,10
+Art,File_Cabinet,22,10
+Art,Flipflops,46,10
+Art,Flowers,90,10
+Art,Folder,20,10
+Art,Fork,46,10
+Art,Glasses,40,10
+Art,Hammer,40,10
+Art,Helmet,79,10
+Art,Kettle,46,10
+Art,Keyboard,18,10
+Art,Knives,72,10
+Art,Lamp_Shade,49,10
+Art,Laptop,51,10
+Art,Marker,20,10
+Art,Monitor,42,10
+Art,Mop,32,10
+Art,Mouse,18,10
+Art,Mug,49,10
+Art,Notebook,21,10
+Art,Oven,20,10
+Art,Pan,19,10
+Art,Paper_Clip,19,10
+Art,Pen,20,10
+Art,Pencil,26,10
+Art,Postit_Notes,19,10
+Art,Printer,18,10
+Art,Push_Pin,24,10
+Art,Radio,47,10
+Art,Refrigerator,49,10
+Art,Ruler,15,10
+Art,Scissors,20,10
+Art,Screwdriver,30,10
+Art,Shelf,42,10
+Art,Sink,41,10
+Art,Sneakers,46,10
+Art,Soda,40,10
+Art,Speaker,20,10
+Art,Spoon,46,10
+Art,TV,40,10
+Art,Table,16,10
+Art,Telephone,44,10
+Art,ToothBrush,43,10
+Art,Toys,20,10
+Art,Trash_Can,21,10
+Art,Webcam,16,10
+Clipart,Alarm_Clock,60,10
+Clipart,Backpack,56,10
+Clipart,Batteries,64,10
+Clipart,Bed,98,10
+Clipart,Bike,99,10
+Clipart,Bottle,99,10
+Clipart,Bucket,73,10
+Clipart,Calculator,46,10
+Clipart,Calendar,78,10
+Clipart,Candles,99,10
+Clipart,Chair,99,10
+Clipart,Clipboards,40,10
+Clipart,Computer,99,10
+Clipart,Couch,64,10
+Clipart,Curtains,42,10
+Clipart,Desk_Lamp,41,10
+Clipart,Drill,48,10
+Clipart,Eraser,40,10
+Clipart,Exit_Sign,41,10
+Clipart,Fan,50,10
+Clipart,File_Cabinet,40,10
+Clipart,Flipflops,40,10
+Clipart,Flowers,99,10
+Clipart,Folder,99,10
+Clipart,Fork,61,10
+Clipart,Glasses,52,10
+Clipart,Hammer,99,10
+Clipart,Helmet,69,10
+Clipart,Kettle,40,10
+Clipart,Keyboard,99,10
+Clipart,Knives,53,10
+Clipart,Lamp_Shade,40,10
+Clipart,Laptop,99,10
+Clipart,Marker,71,10
+Clipart,Monitor,99,10
+Clipart,Mop,40,10
+Clipart,Mouse,76,10
+Clipart,Mug,99,10
+Clipart,Notebook,83,10
+Clipart,Oven,40,10
+Clipart,Pan,51,10
+Clipart,Paper_Clip,40,10
+Clipart,Pen,99,10
+Clipart,Pencil,99,10
+Clipart,Postit_Notes,41,10
+Clipart,Printer,87,10
+Clipart,Push_Pin,40,10
+Clipart,Radio,46,10
+Clipart,Refrigerator,40,10
+Clipart,Ruler,67,10
+Clipart,Scissors,99,10
+Clipart,Screwdriver,75,10
+Clipart,Shelf,42,10
+Clipart,Sink,42,10
+Clipart,Sneakers,43,10
+Clipart,Soda,61,10
+Clipart,Speaker,90,10
+Clipart,Spoon,60,10
+Clipart,TV,99,10
+Clipart,Table,80,10
+Clipart,Telephone,99,10
+Clipart,ToothBrush,39,10
+Clipart,Toys,99,10
+Clipart,Trash_Can,53,10
+Clipart,Webcam,40,10
+Product,Alarm_Clock,79,10
+Product,Backpack,99,10
+Product,Batteries,62,10
+Product,Bed,43,10
+Product,Bike,44,10
+Product,Bottle,62,10
+Product,Bucket,47,10
+Product,Calculator,81,10
+Product,Calendar,81,10
+Product,Candles,56,10
+Product,Chair,99,10
+Product,Clipboards,65,10
+Product,Computer,96,10
+Product,Couch,88,10
+Product,Curtains,75,10
+Product,Desk_Lamp,83,10
+Product,Drill,67,10
+Product,Eraser,41,10
+Product,Exit_Sign,67,10
+Product,Fan,58,10
+Product,File_Cabinet,71,10
+Product,Flipflops,99,10
+Product,Flowers,91,10
+Product,Folder,90,10
+Product,Fork,41,10
+Product,Glasses,67,10
+Product,Hammer,57,10
+Product,Helmet,90,10
+Product,Kettle,72,10
+Product,Keyboard,99,10
+Product,Knives,41,10
+Product,Lamp_Shade,54,10
+Product,Laptop,99,10
+Product,Marker,56,10
+Product,Monitor,98,10
+Product,Mop,72,10
+Product,Mouse,96,10
+Product,Mug,41,10
+Product,Notebook,93,10
+Product,Oven,68,10
+Product,Pan,70,10
+Product,Paper_Clip,47,10
+Product,Pen,60,10
+Product,Pencil,40,10
+Product,Postit_Notes,38,10
+Product,Printer,99,10
+Product,Push_Pin,43,10
+Product,Radio,43,10
+Product,Refrigerator,59,10
+Product,Ruler,58,10
+Product,Scissors,99,10
+Product,Screwdriver,40,10
+Product,Shelf,49,10
+Product,Sink,46,10
+Product,Sneakers,99,10
+Product,Soda,43,10
+Product,Speaker,99,10
+Product,Spoon,47,10
+Product,TV,76,10
+Product,Table,60,10
+Product,Telephone,58,10
+Product,ToothBrush,42,10
+Product,Toys,45,10
+Product,Trash_Can,93,10
+Product,Webcam,98,10
+Real World,Alarm_Clock,86,10
+Real World,Backpack,99,10
+Real World,Batteries,64,10
+Real World,Bed,83,10
+Real World,Bike,99,10
+Real World,Bottle,78,10
+Real World,Bucket,80,10
+Real World,Calculator,73,10
+Real World,Calendar,68,10
+Real World,Candles,99,10
+Real World,Chair,96,10
+Real World,Clipboards,65,10
+Real World,Computer,64,10
+Real World,Couch,76,10
+Real World,Curtains,73,10
+Real World,Desk_Lamp,62,10
+Real World,Drill,51,10
+Real World,Eraser,43,10
+Real World,Exit_Sign,81,10
+Real World,Fan,60,10
+Real World,File_Cabinet,58,10
+Real World,Flipflops,85,10
+Real World,Flowers,75,10
+Real World,Folder,57,10
+Real World,Fork,36,10
+Real World,Glasses,60,10
+Real World,Hammer,52,10
+Real World,Helmet,60,10
+Real World,Kettle,72,10
+Real World,Keyboard,75,10
+Real World,Knives,83,10
+Real World,Lamp_Shade,78,10
+Real World,Laptop,67,10
+Real World,Marker,23,10
+Real World,Monitor,71,10
+Real World,Mop,46,10
+Real World,Mouse,60,10
+Real World,Mug,58,10
+Real World,Notebook,68,10
+Real World,Oven,64,10
+Real World,Pan,30,10
+Real World,Paper_Clip,68,10
+Real World,Pen,65,10
+Real World,Pencil,59,10
+Real World,Postit_Notes,67,10
+Real World,Printer,52,10
+Real World,Push_Pin,53,10
+Real World,Radio,66,10
+Real World,Refrigerator,75,10
+Real World,Ruler,41,10
+Real World,Scissors,77,10
+Real World,Screwdriver,51,10
+Real World,Shelf,66,10
+Real World,Sink,77,10
+Real World,Sneakers,88,10
+Real World,Soda,63,10
+Real World,Speaker,81,10
+Real World,Spoon,54,10
+Real World,TV,53,10
+Real World,Table,59,10
+Real World,Telephone,82,10
+Real World,ToothBrush,85,10
+Real World,Toys,67,10
+Real World,Trash_Can,81,10
+Real World,Webcam,49,10

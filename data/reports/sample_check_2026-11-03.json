@@ -1,0 +1,113 @@
+{
+  "checked_at": "2026-11-03T19:28:33+08:00",
+  "dataset_root": "data/raw/OfficeHomeDataset_10072016",
+  "archive_sha256": "4b3ee939c181e508109064c484d59bcff0386bdf15960e8d11305ee5c4bb81ff",
+  "inventory": {
+    "domains": [
+      "Art",
+      "Clipart",
+      "Product",
+      "Real World"
+    ],
+    "classes_per_domain": 65,
+    "class_names_match": true,
+    "jpg_files": 15588,
+    "extracted_files": 15590,
+    "extracted_bytes": 1187445785,
+    "archive_file_entries": 15590,
+    "archive_uncompressed_bytes": 1187445785,
+    "metadata_errors": [],
+    "other_files": [
+      "ImageInfo.csv",
+      "imagelist.txt"
+    ]
+  },
+  "sampling": {
+    "seed": 42,
+    "per_domain_class_limit": 10,
+    "ordering": "domains and class names sorted; random.Random(42).sample over sorted JPG paths, continuing one RNG across groups",
+    "groups": 260,
+    "sampled": 2600,
+    "population": 15588,
+    "passed": 2600,
+    "failed": 0,
+    "warnings": 0,
+    "modes": {
+      "RGB": 2600
+    },
+    "width_range": [
+      42,
+      5616
+    ],
+    "height_range": [
+      9,
+      4984
+    ],
+    "checks": [
+      "Pillow verify",
+      "full sample image decode",
+      "RGB conversion",
+      "sample-only SHA-256 duplicates"
+    ]
+  },
+  "sample_duplicate_groups": [
+    [
+      "Art/Keyboard/00010.jpg",
+      "Art/Laptop/00023.jpg"
+    ],
+    [
+      "Art/Screwdriver/00007.jpg",
+      "Art/Screwdriver/00022.jpg"
+    ],
+    [
+      "Clipart/Bottle/00088.jpg",
+      "Clipart/Soda/00015.jpg"
+    ],
+    [
+      "Clipart/Drill/00001.jpg",
+      "Clipart/Drill/00018.jpg"
+    ],
+    [
+      "Clipart/Folder/00010.jpg",
+      "Clipart/Notebook/00001.jpg"
+    ],
+    [
+      "Clipart/Hammer/00016.jpg",
+      "Clipart/Hammer/00039.jpg"
+    ],
+    [
+      "Product/Bottle/00005.jpg",
+      "Product/Bottle/00006.jpg"
+    ],
+    [
+      "Product/Radio/00007.jpg",
+      "Product/Radio/00011.jpg"
+    ],
+    [
+      "Product/Telephone/00020.jpg",
+      "Product/Telephone/00021.jpg"
+    ]
+  ],
+  "sample_cross_domain_duplicate_groups": [],
+  "sample_conflicting_class_duplicate_groups": [
+    [
+      "Art/Keyboard/00010.jpg",
+      "Art/Laptop/00023.jpg"
+    ],
+    [
+      "Clipart/Bottle/00088.jpg",
+      "Clipart/Soda/00015.jpg"
+    ],
+    [
+      "Clipart/Folder/00010.jpg",
+      "Clipart/Notebook/00001.jpg"
+    ]
+  ],
+  "failures": [],
+  "limits": [
+    "Unsampled images were not decoded.",
+    "Full-dataset exact and near-duplicate grouping has not been performed.",
+    "No training, validation or test CSV has been generated; the agreed 70/15/15 split with seed 42 still requires duplicate grouping.",
+    "No training or tuning has used these inspection images."
+  ]
+}

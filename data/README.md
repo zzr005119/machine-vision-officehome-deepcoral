@@ -1,4 +1,4 @@
-# Office-Home 本地数据
+# Office-Home 数据
 
 本目录提交数据说明、检查报告和划分清单。压缩包、原始图片及处理后的图片由 `.gitignore` 排除。
 
@@ -24,6 +24,8 @@
 | Real World | 4,357 | 65 |
 
 压缩包已解压到 `data/raw/OfficeHomeDataset_10072016/`。实际有15,590个文件，包含15,588张JPG、`ImageInfo.csv` 和 `imagelist.txt`；文件数量、各文件大小及总字节数均与中央目录相符。SHA-256用于标识当前文件；尚未与上游公布的校验值比较。
+
+服务器项目位于 `/data/zzr/machine-vision-officehome-deepcoral`，其下采用相同数据布局。已确认服务器压缩包SHA-256与本地一致，解压通过ZIP CRC检查，文件数量、大小及四域65类映射匹配，见[服务器验收记录](./reports/server_dataset_2026-11-03.json)。服务器未额外全量逐图解码；图像质量证据沿用下列本地抽检。
 
 ## 2026-11-03 检查结果
 

@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-11-03T12:35:12+00:00",
+  "project_root": "/data/zzr/machine-vision-officehome-deepcoral",
+  "archive_sha256": "4b3ee939c181e508109064c484d59bcff0386bdf15960e8d11305ee5c4bb81ff",
+  "archive_bytes": 1132166928,
+  "dataset_root": "/data/zzr/machine-vision-officehome-deepcoral/data/raw/OfficeHomeDataset_10072016",
+  "extracted_files": 15590,
+  "extracted_bytes": 1187445785,
+  "domains": [
+    {
+      "domain": "Art",
+      "classes": 65,
+      "jpg_files": 2427
+    },
+    {
+      "domain": "Clipart",
+      "classes": 65,
+      "jpg_files": 4365
+    },
+    {
+      "domain": "Product",
+      "classes": 65,
+      "jpg_files": 4439
+    },
+    {
+      "domain": "Real World",
+      "classes": 65,
+      "jpg_files": 4357
+    }
+  ],
+  "class_mapping_matches": true,
+  "checks": [
+    "Full archive SHA-256 matches the local source",
+    "ZIP extraction completed with CRC checks",
+    "Extracted file sizes match ZIP metadata",
+    "Domain class mapping matches the project"
+  ],
+  "limits": [
+    "No additional full-dataset image decode was performed on the server.",
+    "The local stratified sample audit remains the image quality evidence."
+  ]
+}

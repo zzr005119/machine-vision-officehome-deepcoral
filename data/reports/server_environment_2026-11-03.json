@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-11-03T12:32:53+00:00",
+  "project_root": "/data/zzr/machine-vision-officehome-deepcoral",
+  "python": "/data/zzr/machine-vision-officehome-deepcoral/.venv/bin/python",
+  "python_version": "3.10.12",
+  "virtual_environment_isolated": true,
+  "packages": {
+    "torch": "2.13.0+cu126",
+    "torchvision": "0.28.0+cu126",
+    "numpy": "2.2.6",
+    "pillow": "12.2.0"
+  },
+  "cuda_build": "12.6",
+  "cuda_available": true,
+  "gpu": "NVIDIA L20, 46068 MiB, 580.178.04",
+  "pip_check": "No broken requirements found.",
+  "synthetic_training_step": {
+    "model": "ResNet18",
+    "classes": 65,
+    "input_size": [
+      224,
+      224
+    ],
+    "source_batch": 16,
+    "target_batch": 16,
+    "loss": "source cross entropy plus CORAL",
+    "precision": "FP32",
+    "optimizer": "AdamW",
+    "loss_finite": true,
+    "classifier_weight_updated": true,
+    "peak_allocated_mib": 810.0
+  },
+  "limits": [
+    "Random inputs and randomly initialized weights were used.",
+    "No formal training, pretrained weight download or accuracy evaluation was performed."
+  ]
+}

@@ -1,0 +1,81 @@
+name: Publish CORAL Visual Lab
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - index.html
+      - web/**
+      - demo_assets/short_window_pca.json
+      - data/splits/class_to_idx.json
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check Pages configuration
+        id: pages
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let enabled = false;
+            try {
+              const { data } = await github.rest.repos.getPages({
+                owner: context.repo.owner,
+                repo: context.repo.repo
+              });
+              enabled = data.build_type === 'workflow';
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
+            core.setOutput('enabled', enabled ? 'true' : 'false');
+            if (!enabled) {
+              core.notice('Frontend is committed. A repository administrator must enable Pages with GitHub Actions before deployment.');
+              await core.summary
+                .addHeading('Frontend is ready; Pages needs configuration')
+                .addRaw('Ask a repository administrator to open Settings → Pages and select GitHub Actions as the source. Then run this workflow again using Run workflow.')
+                .write();
+            }
+
+      - name: Checkout repository
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Stage the website
+        if: steps.pages.outputs.enabled == 'true'
+        run: |
+          mkdir -p _site/web _site/demo_assets _site/data/splits
+          cp index.html _site/index.html
+          cp web/styles.css web/app.js web/config.js _site/web/
+          cp demo_assets/short_window_pca.json _site/demo_assets/
+          cp data/splits/class_to_idx.json _site/data/splits/
+          touch _site/.nojekyll
+
+      - name: Upload site artifact
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        if: steps.pages.outputs.enabled == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

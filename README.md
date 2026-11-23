@@ -1,5 +1,15 @@
 # 机器视觉大作业：Office-Home / Deep CORAL
 
+## 交互前端（2026-11-23）
+
+CORAL / Visual Lab 前端已同步到本仓库：入口为 [index.html](./index.html)，样式、交互和服务地址配置位于 [web](./web/)。页面包括粒子艺术首页、单张与批量图片预览、模型接入后的 Top-5、真实 PCA 参考分布及实验结果展示。
+
+现有在线版本：[打开 CORAL Visual Lab](https://stmmi02.github.io/officehome-visual-lab/)。本仓库的独立网站需要管理员在 Settings → Pages 中选择 GitHub Actions，再手动运行 Publish CORAL Visual Lab；未开启时工作流会显示提示并跳过部署。配置步骤及模型接口见[前端部署与接口](./docs/前端部署与接口.md)。
+
+真实图片识别仍需连接 Python 模型服务及冻结的 best.pt。未连接服务时，页面可以预览图片和探索真实参考分布，不生成模拟预测。
+
+以下保留此前实验阶段的说明与交接记录。
+
 > 2026-11-19 交接：Product → Clipart 演示使用 DeepDA 短窗版（种子 42）。组员从[短窗版前端接入](./docs/短窗版前端接入.md)开始；实验对照与失误见[三方向量化错分分析](./docs/三方向量化错分分析_2026-11-19.md)。下文保留此前阶段记录。
 
 课程题目6：在 Office-Home 数据集上自实现 Deep CORAL，研究无监督域自适应，并与 Source-only、Target-supervised 对照。
